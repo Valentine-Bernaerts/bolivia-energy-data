@@ -1,0 +1,12 @@
+# Fichiers de données trop grands pour GitHub (>50 MB)
+analyse data ramp/data ramp total sufficiency/
+analyse data ramp/data ramp/*/load_curve_energy_service_full_year_Norte_Amazonia.csv
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
