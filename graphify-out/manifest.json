@@ -1,0 +1,72 @@
+{
+  "GeoJSon/GeoJSon_municipality_bolivia.py": {
+    "mtime": 1776379912.6632283,
+    "ast_hash": "a5a88f3e12ad33a8c315c6967445754b",
+    "semantic_hash": ""
+  },
+  "analyse data ramp/output_energyscope/C1/Misc.json": {
+    "mtime": 1779767229.9129348,
+    "ast_hash": "8077fed8be1652a1c31e73afe124d3fa",
+    "semantic_hash": ""
+  },
+  "analyse data ramp/output_energyscope/C2/Misc.json": {
+    "mtime": 1779767229.914939,
+    "ast_hash": "c0cd6c6cb4f4bb351f35ef6e7d2d79a0",
+    "semantic_hash": ""
+  },
+  "analyse data ramp/output_energyscope/C3/Misc.json": {
+    "mtime": 1779767229.915934,
+    "ast_hash": "9cff4093c36c7969aa42d86a6417e02d",
+    "semantic_hash": ""
+  },
+  "analyse data ramp/output_energyscope/C4/Misc.json": {
+    "mtime": 1779767229.9169414,
+    "ast_hash": "d8f882025a53b68f7fa31ad1bbb97ca1",
+    "semantic_hash": ""
+  },
+  "analyse data ramp/output_energyscope/C5/Misc.json": {
+    "mtime": 1779767229.9189372,
+    "ast_hash": "5787da4e8ede636e655fe9b4ea55072d",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1780949250.8234692,
+    "ast_hash": "d344564b94ee73c6c02f0651fa881e17",
+    "semantic_hash": ""
+  },
+  "graphify-out/converted/CSV_final_in_excel_46b32c2d.md": {
+    "mtime": 1780952719.930412,
+    "ast_hash": "9fa6ab743c45d4ec764a82c563a4a6f5",
+    "semantic_hash": ""
+  },
+  "graphify-out/converted/municipality_areas_f057672e.md": {
+    "mtime": 1780952719.879285,
+    "ast_hash": "08f0cf467a896b7c378f38c9b2d506b2",
+    "semantic_hash": ""
+  },
+  "Clustering/output/clustering_map_journal.pdf": {
+    "mtime": 1779647383.751545,
+    "ast_hash": "6bde0e6dcb24ed94b6a24e4e749aed88",
+    "semantic_hash": ""
+  },
+  "Clustering/output/optimal_clusters_evaluation.pdf": {
+    "mtime": 1779647261.3041456,
+    "ast_hash": "3ca69e15767aed410315d33e33fb71b6",
+    "semantic_hash": ""
+  },
+  "Clustering/output/clustering_map_journal.png": {
+    "mtime": 1779647383.4450598,
+    "ast_hash": "63effe67cdf0de2f87f21cba4e534aa4",
+    "semantic_hash": ""
+  },
+  "Clustering/output/clustering_pca.png": {
+    "mtime": 1779647384.6996536,
+    "ast_hash": "66890647ccde381da9bafbb19955f5f7",
+    "semantic_hash": ""
+  },
+  "Clustering/output/optimal_clusters_evaluation.png": {
+    "mtime": 1779647260.350011,
+    "ast_hash": "d11e6bc96b0c50fb5d01a16b9b3a6a2b",
+    "semantic_hash": ""
+  }
+}

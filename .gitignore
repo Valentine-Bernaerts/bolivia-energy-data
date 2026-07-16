@@ -1,6 +1,8 @@
 # Fichiers de données trop grands pour GitHub (>50 MB)
+# GitHub bloque tout fichier > 100 MB : ces courbes de charge doivent rester locales.
 analyse data ramp/data ramp total sufficiency/
-analyse data ramp/data ramp/*/load_curve_energy_service_full_year_Norte_Amazonia.csv
+analyse data ramp/**/load_curve_energy_service_full_year_Norte_Amazonia.csv
+analyse data ramp/**/load_curve_energy_service_full_year_Norte_Amazonia_reality.csv
 
 # Fichiers système
 .DS_Store

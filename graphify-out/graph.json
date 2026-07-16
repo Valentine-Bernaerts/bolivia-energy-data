@@ -1,0 +1,3039 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "GeoJSon_municipality_bolivia.py",
+      "file_type": "code",
+      "source_file": "GeoJSon/GeoJSon_municipality_bolivia.py",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "geojson_geojson_municipality_bolivia",
+      "community": 11,
+      "norm_label": "geojson_municipality_bolivia.py"
+    },
+    {
+      "label": "Misc.json",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "c1_misc",
+      "community": 0,
+      "norm_label": "misc.json"
+    },
+    {
+      "label": "re_share_primary",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "c1_misc_re_share_primary",
+      "community": 0,
+      "norm_label": "re_share_primary"
+    },
+    {
+      "label": "gwp_limit",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "c1_misc_gwp_limit",
+      "community": 0,
+      "norm_label": "gwp_limit"
+    },
+    {
+      "label": "import_capacity",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "c1_misc_import_capacity",
+      "community": 0,
+      "norm_label": "import_capacity"
+    },
+    {
+      "label": "solar_area_rooftop",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "c1_misc_solar_area_rooftop",
+      "community": 0,
+      "norm_label": "solar_area_rooftop"
+    },
+    {
+      "label": "solar_area_ground",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "c1_misc_solar_area_ground",
+      "community": 0,
+      "norm_label": "solar_area_ground"
+    },
+    {
+      "label": "solar_area_ground_high_irr",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "c1_misc_solar_area_ground_high_irr",
+      "community": 0,
+      "norm_label": "solar_area_ground_high_irr"
+    },
+    {
+      "label": "share_mobility_public_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "c1_misc_share_mobility_public_min",
+      "community": 0,
+      "norm_label": "share_mobility_public_min"
+    },
+    {
+      "label": "share_mobility_public_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "c1_misc_share_mobility_public_max",
+      "community": 0,
+      "norm_label": "share_mobility_public_max"
+    },
+    {
+      "label": "share_freight_train_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "c1_misc_share_freight_train_min",
+      "community": 0,
+      "norm_label": "share_freight_train_min"
+    },
+    {
+      "label": "share_freight_train_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "c1_misc_share_freight_train_max",
+      "community": 0,
+      "norm_label": "share_freight_train_max"
+    },
+    {
+      "label": "share_freight_road_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "c1_misc_share_freight_road_min",
+      "community": 0,
+      "norm_label": "share_freight_road_min"
+    },
+    {
+      "label": "share_freight_road_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "c1_misc_share_freight_road_max",
+      "community": 0,
+      "norm_label": "share_freight_road_max"
+    },
+    {
+      "label": "share_freight_boat_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "c1_misc_share_freight_boat_min",
+      "community": 0,
+      "norm_label": "share_freight_boat_min"
+    },
+    {
+      "label": "share_freight_boat_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "c1_misc_share_freight_boat_max",
+      "community": 0,
+      "norm_label": "share_freight_boat_max"
+    },
+    {
+      "label": "share_heat_dhn_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "c1_misc_share_heat_dhn_min",
+      "community": 0,
+      "norm_label": "share_heat_dhn_min"
+    },
+    {
+      "label": "share_heat_dhn_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "c1_misc_share_heat_dhn_max",
+      "community": 0,
+      "norm_label": "share_heat_dhn_max"
+    },
+    {
+      "label": "share_dispersion",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "c1_misc_share_dispersion",
+      "community": 0,
+      "norm_label": "share_dispersion"
+    },
+    {
+      "label": "share_short_haul_flights_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "c1_misc_share_short_haul_flights_min",
+      "community": 0,
+      "norm_label": "share_short_haul_flights_min"
+    },
+    {
+      "label": "share_short_haul_flights_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "c1_misc_share_short_haul_flights_max",
+      "community": 0,
+      "norm_label": "share_short_haul_flights_max"
+    },
+    {
+      "label": "share_ned",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "c1_misc_share_ned",
+      "community": 0,
+      "norm_label": "share_ned"
+    },
+    {
+      "label": "HVC",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "c1_misc_share_ned_hvc",
+      "community": 0,
+      "norm_label": "hvc"
+    },
+    {
+      "label": "METHANOL",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "c1_misc_share_ned_methanol",
+      "community": 0,
+      "norm_label": "methanol"
+    },
+    {
+      "label": "AMMONIA",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "c1_misc_share_ned_ammonia",
+      "community": 0,
+      "norm_label": "ammonia"
+    },
+    {
+      "label": "Misc.json",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "c2_misc",
+      "community": 1,
+      "norm_label": "misc.json"
+    },
+    {
+      "label": "re_share_primary",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "c2_misc_re_share_primary",
+      "community": 1,
+      "norm_label": "re_share_primary"
+    },
+    {
+      "label": "gwp_limit",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "c2_misc_gwp_limit",
+      "community": 1,
+      "norm_label": "gwp_limit"
+    },
+    {
+      "label": "import_capacity",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "c2_misc_import_capacity",
+      "community": 1,
+      "norm_label": "import_capacity"
+    },
+    {
+      "label": "solar_area_rooftop",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "c2_misc_solar_area_rooftop",
+      "community": 1,
+      "norm_label": "solar_area_rooftop"
+    },
+    {
+      "label": "solar_area_ground",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "c2_misc_solar_area_ground",
+      "community": 1,
+      "norm_label": "solar_area_ground"
+    },
+    {
+      "label": "solar_area_ground_high_irr",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "c2_misc_solar_area_ground_high_irr",
+      "community": 1,
+      "norm_label": "solar_area_ground_high_irr"
+    },
+    {
+      "label": "share_mobility_public_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "c2_misc_share_mobility_public_min",
+      "community": 1,
+      "norm_label": "share_mobility_public_min"
+    },
+    {
+      "label": "share_mobility_public_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "c2_misc_share_mobility_public_max",
+      "community": 1,
+      "norm_label": "share_mobility_public_max"
+    },
+    {
+      "label": "share_freight_train_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "c2_misc_share_freight_train_min",
+      "community": 1,
+      "norm_label": "share_freight_train_min"
+    },
+    {
+      "label": "share_freight_train_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "c2_misc_share_freight_train_max",
+      "community": 1,
+      "norm_label": "share_freight_train_max"
+    },
+    {
+      "label": "share_freight_road_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "c2_misc_share_freight_road_min",
+      "community": 1,
+      "norm_label": "share_freight_road_min"
+    },
+    {
+      "label": "share_freight_road_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "c2_misc_share_freight_road_max",
+      "community": 1,
+      "norm_label": "share_freight_road_max"
+    },
+    {
+      "label": "share_freight_boat_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "c2_misc_share_freight_boat_min",
+      "community": 1,
+      "norm_label": "share_freight_boat_min"
+    },
+    {
+      "label": "share_freight_boat_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "c2_misc_share_freight_boat_max",
+      "community": 1,
+      "norm_label": "share_freight_boat_max"
+    },
+    {
+      "label": "share_heat_dhn_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "c2_misc_share_heat_dhn_min",
+      "community": 1,
+      "norm_label": "share_heat_dhn_min"
+    },
+    {
+      "label": "share_heat_dhn_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "c2_misc_share_heat_dhn_max",
+      "community": 1,
+      "norm_label": "share_heat_dhn_max"
+    },
+    {
+      "label": "share_dispersion",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "c2_misc_share_dispersion",
+      "community": 1,
+      "norm_label": "share_dispersion"
+    },
+    {
+      "label": "share_short_haul_flights_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "c2_misc_share_short_haul_flights_min",
+      "community": 1,
+      "norm_label": "share_short_haul_flights_min"
+    },
+    {
+      "label": "share_short_haul_flights_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "c2_misc_share_short_haul_flights_max",
+      "community": 1,
+      "norm_label": "share_short_haul_flights_max"
+    },
+    {
+      "label": "share_ned",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "c2_misc_share_ned",
+      "community": 1,
+      "norm_label": "share_ned"
+    },
+    {
+      "label": "HVC",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "c2_misc_share_ned_hvc",
+      "community": 1,
+      "norm_label": "hvc"
+    },
+    {
+      "label": "METHANOL",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "c2_misc_share_ned_methanol",
+      "community": 1,
+      "norm_label": "methanol"
+    },
+    {
+      "label": "AMMONIA",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "c2_misc_share_ned_ammonia",
+      "community": 1,
+      "norm_label": "ammonia"
+    },
+    {
+      "label": "Misc.json",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "c3_misc",
+      "community": 2,
+      "norm_label": "misc.json"
+    },
+    {
+      "label": "re_share_primary",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "c3_misc_re_share_primary",
+      "community": 2,
+      "norm_label": "re_share_primary"
+    },
+    {
+      "label": "gwp_limit",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "c3_misc_gwp_limit",
+      "community": 2,
+      "norm_label": "gwp_limit"
+    },
+    {
+      "label": "import_capacity",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "c3_misc_import_capacity",
+      "community": 2,
+      "norm_label": "import_capacity"
+    },
+    {
+      "label": "solar_area_rooftop",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "c3_misc_solar_area_rooftop",
+      "community": 2,
+      "norm_label": "solar_area_rooftop"
+    },
+    {
+      "label": "solar_area_ground",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "c3_misc_solar_area_ground",
+      "community": 2,
+      "norm_label": "solar_area_ground"
+    },
+    {
+      "label": "solar_area_ground_high_irr",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "c3_misc_solar_area_ground_high_irr",
+      "community": 2,
+      "norm_label": "solar_area_ground_high_irr"
+    },
+    {
+      "label": "share_mobility_public_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "c3_misc_share_mobility_public_min",
+      "community": 2,
+      "norm_label": "share_mobility_public_min"
+    },
+    {
+      "label": "share_mobility_public_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "c3_misc_share_mobility_public_max",
+      "community": 2,
+      "norm_label": "share_mobility_public_max"
+    },
+    {
+      "label": "share_freight_train_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "c3_misc_share_freight_train_min",
+      "community": 2,
+      "norm_label": "share_freight_train_min"
+    },
+    {
+      "label": "share_freight_train_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "c3_misc_share_freight_train_max",
+      "community": 2,
+      "norm_label": "share_freight_train_max"
+    },
+    {
+      "label": "share_freight_road_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "c3_misc_share_freight_road_min",
+      "community": 2,
+      "norm_label": "share_freight_road_min"
+    },
+    {
+      "label": "share_freight_road_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "c3_misc_share_freight_road_max",
+      "community": 2,
+      "norm_label": "share_freight_road_max"
+    },
+    {
+      "label": "share_freight_boat_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "c3_misc_share_freight_boat_min",
+      "community": 2,
+      "norm_label": "share_freight_boat_min"
+    },
+    {
+      "label": "share_freight_boat_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "c3_misc_share_freight_boat_max",
+      "community": 2,
+      "norm_label": "share_freight_boat_max"
+    },
+    {
+      "label": "share_heat_dhn_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "c3_misc_share_heat_dhn_min",
+      "community": 2,
+      "norm_label": "share_heat_dhn_min"
+    },
+    {
+      "label": "share_heat_dhn_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "c3_misc_share_heat_dhn_max",
+      "community": 2,
+      "norm_label": "share_heat_dhn_max"
+    },
+    {
+      "label": "share_dispersion",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "c3_misc_share_dispersion",
+      "community": 2,
+      "norm_label": "share_dispersion"
+    },
+    {
+      "label": "share_short_haul_flights_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "c3_misc_share_short_haul_flights_min",
+      "community": 2,
+      "norm_label": "share_short_haul_flights_min"
+    },
+    {
+      "label": "share_short_haul_flights_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "c3_misc_share_short_haul_flights_max",
+      "community": 2,
+      "norm_label": "share_short_haul_flights_max"
+    },
+    {
+      "label": "share_ned",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "c3_misc_share_ned",
+      "community": 2,
+      "norm_label": "share_ned"
+    },
+    {
+      "label": "HVC",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "c3_misc_share_ned_hvc",
+      "community": 2,
+      "norm_label": "hvc"
+    },
+    {
+      "label": "METHANOL",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "c3_misc_share_ned_methanol",
+      "community": 2,
+      "norm_label": "methanol"
+    },
+    {
+      "label": "AMMONIA",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "c3_misc_share_ned_ammonia",
+      "community": 2,
+      "norm_label": "ammonia"
+    },
+    {
+      "label": "Misc.json",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "c4_misc",
+      "community": 3,
+      "norm_label": "misc.json"
+    },
+    {
+      "label": "re_share_primary",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "c4_misc_re_share_primary",
+      "community": 3,
+      "norm_label": "re_share_primary"
+    },
+    {
+      "label": "gwp_limit",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "c4_misc_gwp_limit",
+      "community": 3,
+      "norm_label": "gwp_limit"
+    },
+    {
+      "label": "import_capacity",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "c4_misc_import_capacity",
+      "community": 3,
+      "norm_label": "import_capacity"
+    },
+    {
+      "label": "solar_area_rooftop",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "c4_misc_solar_area_rooftop",
+      "community": 3,
+      "norm_label": "solar_area_rooftop"
+    },
+    {
+      "label": "solar_area_ground",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "c4_misc_solar_area_ground",
+      "community": 3,
+      "norm_label": "solar_area_ground"
+    },
+    {
+      "label": "solar_area_ground_high_irr",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "c4_misc_solar_area_ground_high_irr",
+      "community": 3,
+      "norm_label": "solar_area_ground_high_irr"
+    },
+    {
+      "label": "share_mobility_public_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "c4_misc_share_mobility_public_min",
+      "community": 3,
+      "norm_label": "share_mobility_public_min"
+    },
+    {
+      "label": "share_mobility_public_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "c4_misc_share_mobility_public_max",
+      "community": 3,
+      "norm_label": "share_mobility_public_max"
+    },
+    {
+      "label": "share_freight_train_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "c4_misc_share_freight_train_min",
+      "community": 3,
+      "norm_label": "share_freight_train_min"
+    },
+    {
+      "label": "share_freight_train_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "c4_misc_share_freight_train_max",
+      "community": 3,
+      "norm_label": "share_freight_train_max"
+    },
+    {
+      "label": "share_freight_road_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "c4_misc_share_freight_road_min",
+      "community": 3,
+      "norm_label": "share_freight_road_min"
+    },
+    {
+      "label": "share_freight_road_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "c4_misc_share_freight_road_max",
+      "community": 3,
+      "norm_label": "share_freight_road_max"
+    },
+    {
+      "label": "share_freight_boat_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "c4_misc_share_freight_boat_min",
+      "community": 3,
+      "norm_label": "share_freight_boat_min"
+    },
+    {
+      "label": "share_freight_boat_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "c4_misc_share_freight_boat_max",
+      "community": 3,
+      "norm_label": "share_freight_boat_max"
+    },
+    {
+      "label": "share_heat_dhn_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "c4_misc_share_heat_dhn_min",
+      "community": 3,
+      "norm_label": "share_heat_dhn_min"
+    },
+    {
+      "label": "share_heat_dhn_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "c4_misc_share_heat_dhn_max",
+      "community": 3,
+      "norm_label": "share_heat_dhn_max"
+    },
+    {
+      "label": "share_dispersion",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "c4_misc_share_dispersion",
+      "community": 3,
+      "norm_label": "share_dispersion"
+    },
+    {
+      "label": "share_short_haul_flights_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "c4_misc_share_short_haul_flights_min",
+      "community": 3,
+      "norm_label": "share_short_haul_flights_min"
+    },
+    {
+      "label": "share_short_haul_flights_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "c4_misc_share_short_haul_flights_max",
+      "community": 3,
+      "norm_label": "share_short_haul_flights_max"
+    },
+    {
+      "label": "share_ned",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "c4_misc_share_ned",
+      "community": 3,
+      "norm_label": "share_ned"
+    },
+    {
+      "label": "HVC",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "c4_misc_share_ned_hvc",
+      "community": 3,
+      "norm_label": "hvc"
+    },
+    {
+      "label": "METHANOL",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "c4_misc_share_ned_methanol",
+      "community": 3,
+      "norm_label": "methanol"
+    },
+    {
+      "label": "AMMONIA",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "c4_misc_share_ned_ammonia",
+      "community": 3,
+      "norm_label": "ammonia"
+    },
+    {
+      "label": "Misc.json",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "c5_misc",
+      "community": 4,
+      "norm_label": "misc.json"
+    },
+    {
+      "label": "re_share_primary",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "c5_misc_re_share_primary",
+      "community": 4,
+      "norm_label": "re_share_primary"
+    },
+    {
+      "label": "gwp_limit",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "c5_misc_gwp_limit",
+      "community": 4,
+      "norm_label": "gwp_limit"
+    },
+    {
+      "label": "import_capacity",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "c5_misc_import_capacity",
+      "community": 4,
+      "norm_label": "import_capacity"
+    },
+    {
+      "label": "solar_area_rooftop",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "c5_misc_solar_area_rooftop",
+      "community": 4,
+      "norm_label": "solar_area_rooftop"
+    },
+    {
+      "label": "solar_area_ground",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "c5_misc_solar_area_ground",
+      "community": 4,
+      "norm_label": "solar_area_ground"
+    },
+    {
+      "label": "solar_area_ground_high_irr",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "c5_misc_solar_area_ground_high_irr",
+      "community": 4,
+      "norm_label": "solar_area_ground_high_irr"
+    },
+    {
+      "label": "share_mobility_public_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "c5_misc_share_mobility_public_min",
+      "community": 4,
+      "norm_label": "share_mobility_public_min"
+    },
+    {
+      "label": "share_mobility_public_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "c5_misc_share_mobility_public_max",
+      "community": 4,
+      "norm_label": "share_mobility_public_max"
+    },
+    {
+      "label": "share_freight_train_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "c5_misc_share_freight_train_min",
+      "community": 4,
+      "norm_label": "share_freight_train_min"
+    },
+    {
+      "label": "share_freight_train_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "c5_misc_share_freight_train_max",
+      "community": 4,
+      "norm_label": "share_freight_train_max"
+    },
+    {
+      "label": "share_freight_road_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "c5_misc_share_freight_road_min",
+      "community": 4,
+      "norm_label": "share_freight_road_min"
+    },
+    {
+      "label": "share_freight_road_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "c5_misc_share_freight_road_max",
+      "community": 4,
+      "norm_label": "share_freight_road_max"
+    },
+    {
+      "label": "share_freight_boat_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "c5_misc_share_freight_boat_min",
+      "community": 4,
+      "norm_label": "share_freight_boat_min"
+    },
+    {
+      "label": "share_freight_boat_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "c5_misc_share_freight_boat_max",
+      "community": 4,
+      "norm_label": "share_freight_boat_max"
+    },
+    {
+      "label": "share_heat_dhn_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "c5_misc_share_heat_dhn_min",
+      "community": 4,
+      "norm_label": "share_heat_dhn_min"
+    },
+    {
+      "label": "share_heat_dhn_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "c5_misc_share_heat_dhn_max",
+      "community": 4,
+      "norm_label": "share_heat_dhn_max"
+    },
+    {
+      "label": "share_dispersion",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "c5_misc_share_dispersion",
+      "community": 4,
+      "norm_label": "share_dispersion"
+    },
+    {
+      "label": "share_short_haul_flights_min",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "c5_misc_share_short_haul_flights_min",
+      "community": 4,
+      "norm_label": "share_short_haul_flights_min"
+    },
+    {
+      "label": "share_short_haul_flights_max",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "c5_misc_share_short_haul_flights_max",
+      "community": 4,
+      "norm_label": "share_short_haul_flights_max"
+    },
+    {
+      "label": "share_ned",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "c5_misc_share_ned",
+      "community": 4,
+      "norm_label": "share_ned"
+    },
+    {
+      "label": "HVC",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "c5_misc_share_ned_hvc",
+      "community": 4,
+      "norm_label": "hvc"
+    },
+    {
+      "label": "METHANOL",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "c5_misc_share_ned_methanol",
+      "community": 4,
+      "norm_label": "methanol"
+    },
+    {
+      "label": "AMMONIA",
+      "file_type": "code",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "c5_misc_share_ned_ammonia",
+      "community": 4,
+      "norm_label": "ammonia"
+    },
+    {
+      "label": "CLAUDE.md",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "claude",
+      "community": 7,
+      "norm_label": "claude.md"
+    },
+    {
+      "label": "Instructions pour Claude Code",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "claude_instructions_pour_claude_code",
+      "community": 7,
+      "norm_label": "instructions pour claude code"
+    },
+    {
+      "label": "Gestion du contexte projet",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "claude_gestion_du_contexte_projet",
+      "community": 7,
+      "norm_label": "gestion du contexte projet"
+    },
+    {
+      "label": "R\u00e8gles g\u00e9n\u00e9rales",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "claude_r\u00e8gles_g\u00e9n\u00e9rales",
+      "community": 7,
+      "norm_label": "regles generales"
+    },
+    {
+      "label": "CSV_final_in_excel_46b32c2d.md",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/CSV_final_in_excel_46b32c2d.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "converted_csv_final_in_excel_46b32c2d",
+      "community": 9,
+      "norm_label": "csv_final_in_excel_46b32c2d.md"
+    },
+    {
+      "label": "Sheet: data",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/CSV_final_in_excel_46b32c2d.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "converted_csv_final_in_excel_46b32c2d_sheet_data",
+      "community": 9,
+      "norm_label": "sheet: data"
+    },
+    {
+      "label": "municipality_areas_f057672e.md",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/municipality_areas_f057672e.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "converted_municipality_areas_f057672e",
+      "community": 10,
+      "norm_label": "municipality_areas_f057672e.md"
+    },
+    {
+      "label": "Sheet: Sheet1",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/municipality_areas_f057672e.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "converted_municipality_areas_f057672e_sheet_sheet1",
+      "community": 10,
+      "norm_label": "sheet: sheet1"
+    },
+    {
+      "label": "extraction.ipynb",
+      "type": "notebook",
+      "group": "extraction",
+      "path": "exctraction of data/extraction.ipynb",
+      "file_type": "concept",
+      "id": "extraction",
+      "community": 6,
+      "norm_label": "extraction.ipynb"
+    },
+    {
+      "label": "municipality_count.ipynb",
+      "type": "notebook",
+      "group": "extraction",
+      "path": "exctraction of data/municipality_count.ipynb",
+      "file_type": "concept",
+      "id": "municipality-count",
+      "community": 6,
+      "norm_label": "municipality_count.ipynb"
+    },
+    {
+      "label": "source_A_grid_consumption.ipynb",
+      "type": "notebook",
+      "group": "extraction",
+      "path": "exctraction of data/source_A_grid_consumption.ipynb",
+      "file_type": "concept",
+      "id": "source-A-grid",
+      "community": 6,
+      "norm_label": "source_a_grid_consumption.ipynb"
+    },
+    {
+      "label": "Clustering_norte_Bolivia.ipynb",
+      "type": "notebook",
+      "group": "clustering",
+      "path": "Clustering/Clustering_norte_Bolivia.ipynb",
+      "file_type": "concept",
+      "id": "clustering-norte",
+      "community": 6,
+      "norm_label": "clustering_norte_bolivia.ipynb"
+    },
+    {
+      "label": "Clustering_csv.ipynb",
+      "type": "notebook",
+      "group": "clustering",
+      "path": "Clustering/Clustering_csv.ipynb",
+      "file_type": "concept",
+      "id": "clustering-csv",
+      "community": 6,
+      "norm_label": "clustering_csv.ipynb"
+    },
+    {
+      "label": "extraction_solar_wind.ipynb",
+      "type": "notebook",
+      "group": "renewable-ninja",
+      "path": "renewable ninja/solar and wind/extraction_solar_wind.ipynb",
+      "file_type": "concept",
+      "id": "extraction-solar-wind",
+      "community": 5,
+      "norm_label": "extraction_solar_wind.ipynb"
+    },
+    {
+      "label": "temp.ipynb",
+      "type": "notebook",
+      "group": "renewable-ninja",
+      "path": "renewable ninja/temperature/temp.ipynb",
+      "file_type": "concept",
+      "id": "temp",
+      "community": 5,
+      "norm_label": "temp.ipynb"
+    },
+    {
+      "label": "GeoJSon_municipality_bolivia.py",
+      "type": "script",
+      "group": "geojson",
+      "path": "GeoJSon/GeoJSon_municipality_bolivia.py",
+      "file_type": "concept",
+      "id": "geojson-script",
+      "community": 6,
+      "norm_label": "geojson_municipality_bolivia.py"
+    },
+    {
+      "label": "analyse ramp.ipynb",
+      "type": "notebook",
+      "group": "energyscope",
+      "path": "analyse data ramp/analyse ramp.ipynb",
+      "file_type": "concept",
+      "id": "analyse-ramp",
+      "community": 5,
+      "norm_label": "analyse ramp.ipynb"
+    },
+    {
+      "label": "analyse ramp total sufficiency.ipynb",
+      "type": "notebook",
+      "group": "energyscope",
+      "path": "analyse data ramp/analyse ramp total sufficiency.ipynb",
+      "file_type": "concept",
+      "id": "analyse-ramp-suf",
+      "community": 8,
+      "norm_label": "analyse ramp total sufficiency.ipynb"
+    },
+    {
+      "label": "demande.ipynb",
+      "type": "notebook",
+      "group": "energyscope",
+      "path": "analyse data ramp/demande.ipynb",
+      "file_type": "concept",
+      "id": "demande",
+      "community": 5,
+      "norm_label": "demande.ipynb"
+    },
+    {
+      "label": "exchanges.ipynb",
+      "type": "notebook",
+      "group": "energyscope",
+      "path": "analyse data ramp/exchanges.ipynb",
+      "file_type": "concept",
+      "id": "exchanges",
+      "community": 5,
+      "norm_label": "exchanges.ipynb"
+    },
+    {
+      "label": "misc_json.ipynb",
+      "type": "notebook",
+      "group": "energyscope",
+      "path": "analyse data ramp/misc_json.ipynb",
+      "file_type": "concept",
+      "id": "misc-json",
+      "community": 5,
+      "norm_label": "misc_json.ipynb"
+    },
+    {
+      "label": "resources.ipynb",
+      "type": "notebook",
+      "group": "energyscope",
+      "path": "analyse data ramp/resources.ipynb",
+      "file_type": "concept",
+      "id": "resources",
+      "community": 5,
+      "norm_label": "resources.ipynb"
+    },
+    {
+      "label": "technologies.ipynb",
+      "type": "notebook",
+      "group": "energyscope",
+      "path": "analyse data ramp/technologies.ipynb",
+      "file_type": "concept",
+      "id": "technologies",
+      "community": 5,
+      "norm_label": "technologies.ipynb"
+    },
+    {
+      "label": "time_series.ipynb",
+      "type": "notebook",
+      "group": "energyscope",
+      "path": "analyse data ramp/time_series.ipynb",
+      "file_type": "concept",
+      "id": "time-series",
+      "community": 5,
+      "norm_label": "time_series.ipynb"
+    },
+    {
+      "label": "Census data (INE)",
+      "type": "data",
+      "group": "inputs",
+      "path": "exctraction of data/data/",
+      "file_type": "concept",
+      "id": "data-census",
+      "community": 6,
+      "norm_label": "census data (ine)"
+    },
+    {
+      "label": "municipalities_database_Bolivia.csv",
+      "type": "data",
+      "group": "inputs",
+      "path": "Clustering/data/municipalities_database_Bolivia.csv",
+      "file_type": "concept",
+      "id": "data-clustering",
+      "community": 6,
+      "norm_label": "municipalities_database_bolivia.csv"
+    },
+    {
+      "label": "Solar data (ninja_pv_*.csv \u00d7 21)",
+      "type": "data",
+      "group": "inputs",
+      "path": "renewable ninja/solar and wind/data solar/",
+      "file_type": "concept",
+      "id": "data-solar",
+      "community": 5,
+      "norm_label": "solar data (ninja_pv_*.csv \u00d7 21)"
+    },
+    {
+      "label": "Wind data (ninja_wind_*.csv \u00d7 21)",
+      "type": "data",
+      "group": "inputs",
+      "path": "renewable ninja/solar and wind/data wind/",
+      "file_type": "concept",
+      "id": "data-wind",
+      "community": 5,
+      "norm_label": "wind data (ninja_wind_*.csv \u00d7 21)"
+    },
+    {
+      "label": "Weather data (ninja_weather_*.csv \u00d7 21)",
+      "type": "data",
+      "group": "inputs",
+      "path": "renewable ninja/temperature/data/",
+      "file_type": "concept",
+      "id": "data-temperature",
+      "community": 5,
+      "norm_label": "weather data (ninja_weather_*.csv \u00d7 21)"
+    },
+    {
+      "label": "Load curves (5 files \u00d7 21 municipalities)",
+      "type": "data",
+      "group": "inputs",
+      "path": "analyse data ramp/data ramp/",
+      "file_type": "concept",
+      "id": "data-ramp",
+      "community": 5,
+      "norm_label": "load curves (5 files \u00d7 21 municipalities)"
+    },
+    {
+      "label": "Total sufficiency data (\u00d7 21 mun.)",
+      "type": "data",
+      "group": "inputs",
+      "path": "analyse data ramp/data ramp total sufficiency/",
+      "file_type": "concept",
+      "id": "data-ramp-suf",
+      "community": 8,
+      "norm_label": "total sufficiency data (\u00d7 21 mun.)"
+    },
+    {
+      "label": "Reference tables (Layers, Tech, TS)",
+      "type": "data",
+      "group": "inputs",
+      "path": "analyse data ramp/data/",
+      "file_type": "concept",
+      "id": "data-reference",
+      "community": 5,
+      "norm_label": "reference tables (layers, tech, ts)"
+    },
+    {
+      "label": "municipios_339_pob2012_ed.geojson",
+      "type": "data",
+      "group": "inputs",
+      "path": "GeoJSon/municipios_339_pob2012_ed.geojson",
+      "file_type": "concept",
+      "id": "data-geojson-all",
+      "community": 6,
+      "norm_label": "municipios_339_pob2012_ed.geojson"
+    },
+    {
+      "label": "out: extraction results",
+      "type": "output",
+      "group": "outputs",
+      "path": "exctraction of data/output/",
+      "file_type": "concept",
+      "id": "out-extraction",
+      "community": 6,
+      "norm_label": "out: extraction results"
+    },
+    {
+      "label": "out: norte_amazonica_21.geojson",
+      "type": "output",
+      "group": "outputs",
+      "path": "GeoJSon/norte_amazonica_21.geojson",
+      "file_type": "concept",
+      "id": "out-geojson-norte",
+      "community": 6,
+      "norm_label": "out: norte_amazonica_21.geojson"
+    },
+    {
+      "label": "out: Clustering results",
+      "type": "output",
+      "group": "outputs",
+      "path": "Clustering/output/",
+      "file_type": "concept",
+      "id": "out-clustering",
+      "community": 5,
+      "norm_label": "out: clustering results"
+    },
+    {
+      "label": "out: renewables_C1..C7.csv",
+      "type": "output",
+      "group": "outputs",
+      "path": "renewable ninja/solar and wind/output/",
+      "file_type": "concept",
+      "id": "out-renewables",
+      "community": 5,
+      "norm_label": "out: renewables_c1..c7.csv"
+    },
+    {
+      "label": "out: thermal profiles & comfort",
+      "type": "output",
+      "group": "outputs",
+      "path": "renewable ninja/temperature/output/",
+      "file_type": "concept",
+      "id": "out-temperature",
+      "community": 5,
+      "norm_label": "out: thermal profiles & comfort"
+    },
+    {
+      "label": "out: EnergyScope inputs (C1\u2013C5)",
+      "type": "output",
+      "group": "outputs",
+      "path": "analyse data ramp/output_energyscope/",
+      "file_type": "concept",
+      "id": "out-energyscope",
+      "community": 5,
+      "norm_label": "out: energyscope inputs (c1\u2013c5)"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_gwp_limit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_import_capacity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_re_share_primary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_share_dispersion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_share_freight_boat_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_share_freight_boat_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_share_freight_road_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_share_freight_road_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_share_freight_train_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_share_freight_train_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_share_heat_dhn_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_share_heat_dhn_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_share_mobility_public_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_share_mobility_public_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_share_ned",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_share_short_haul_flights_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_share_short_haul_flights_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_solar_area_ground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_solar_area_ground_high_irr",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "c1_misc",
+      "target": "c1_misc_solar_area_rooftop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "c1_misc_share_ned",
+      "target": "c1_misc_share_ned_ammonia",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "c1_misc_share_ned",
+      "target": "c1_misc_share_ned_hvc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C1/Misc.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "c1_misc_share_ned",
+      "target": "c1_misc_share_ned_methanol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_gwp_limit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_import_capacity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_re_share_primary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_share_dispersion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_share_freight_boat_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_share_freight_boat_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_share_freight_road_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_share_freight_road_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_share_freight_train_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_share_freight_train_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_share_heat_dhn_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_share_heat_dhn_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_share_mobility_public_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_share_mobility_public_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_share_ned",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_share_short_haul_flights_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_share_short_haul_flights_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_solar_area_ground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_solar_area_ground_high_irr",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "c2_misc",
+      "target": "c2_misc_solar_area_rooftop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "c2_misc_share_ned",
+      "target": "c2_misc_share_ned_ammonia",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "c2_misc_share_ned",
+      "target": "c2_misc_share_ned_hvc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C2/Misc.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "c2_misc_share_ned",
+      "target": "c2_misc_share_ned_methanol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_gwp_limit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_import_capacity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_re_share_primary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_share_dispersion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_share_freight_boat_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_share_freight_boat_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_share_freight_road_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_share_freight_road_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_share_freight_train_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_share_freight_train_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_share_heat_dhn_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_share_heat_dhn_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_share_mobility_public_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_share_mobility_public_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_share_ned",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_share_short_haul_flights_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_share_short_haul_flights_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_solar_area_ground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_solar_area_ground_high_irr",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "c3_misc",
+      "target": "c3_misc_solar_area_rooftop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "c3_misc_share_ned",
+      "target": "c3_misc_share_ned_ammonia",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "c3_misc_share_ned",
+      "target": "c3_misc_share_ned_hvc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C3/Misc.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "c3_misc_share_ned",
+      "target": "c3_misc_share_ned_methanol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_gwp_limit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_import_capacity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_re_share_primary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_share_dispersion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_share_freight_boat_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_share_freight_boat_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_share_freight_road_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_share_freight_road_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_share_freight_train_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_share_freight_train_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_share_heat_dhn_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_share_heat_dhn_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_share_mobility_public_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_share_mobility_public_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_share_ned",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_share_short_haul_flights_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_share_short_haul_flights_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_solar_area_ground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_solar_area_ground_high_irr",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "c4_misc",
+      "target": "c4_misc_solar_area_rooftop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "c4_misc_share_ned",
+      "target": "c4_misc_share_ned_ammonia",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "c4_misc_share_ned",
+      "target": "c4_misc_share_ned_hvc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C4/Misc.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "c4_misc_share_ned",
+      "target": "c4_misc_share_ned_methanol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_gwp_limit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_import_capacity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_re_share_primary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_share_dispersion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_share_freight_boat_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_share_freight_boat_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_share_freight_road_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_share_freight_road_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_share_freight_train_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_share_freight_train_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_share_heat_dhn_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_share_heat_dhn_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_share_mobility_public_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_share_mobility_public_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_share_ned",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_share_short_haul_flights_max",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_share_short_haul_flights_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_solar_area_ground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_solar_area_ground_high_irr",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "c5_misc",
+      "target": "c5_misc_solar_area_rooftop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "c5_misc_share_ned",
+      "target": "c5_misc_share_ned_ammonia",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "c5_misc_share_ned",
+      "target": "c5_misc_share_ned_hvc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "analyse data ramp/output_energyscope/C5/Misc.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "c5_misc_share_ned",
+      "target": "c5_misc_share_ned_methanol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude",
+      "target": "claude_instructions_pour_claude_code",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "claude_instructions_pour_claude_code",
+      "target": "claude_gestion_du_contexte_projet",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "claude_instructions_pour_claude_code",
+      "target": "claude_r\u00e8gles_g\u00e9n\u00e9rales",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out/converted/CSV_final_in_excel_46b32c2d.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "converted_csv_final_in_excel_46b32c2d",
+      "target": "converted_csv_final_in_excel_46b32c2d_sheet_data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out/converted/municipality_areas_f057672e.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "converted_municipality_areas_f057672e",
+      "target": "converted_municipality_areas_f057672e_sheet_sheet1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-census",
+      "target": "extraction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "writes",
+      "source": "extraction",
+      "target": "out-extraction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-census",
+      "target": "municipality-count",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "writes",
+      "source": "municipality-count",
+      "target": "out-extraction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-census",
+      "target": "source-A-grid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "writes",
+      "source": "source-A-grid",
+      "target": "out-extraction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "writes",
+      "source": "clustering-norte",
+      "target": "out-clustering",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-clustering",
+      "target": "clustering-norte",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "out-extraction",
+      "target": "clustering-norte",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "out-geojson-norte",
+      "target": "clustering-norte",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "writes",
+      "source": "clustering-csv",
+      "target": "out-clustering",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-clustering",
+      "target": "clustering-csv",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-solar",
+      "target": "extraction-solar-wind",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-wind",
+      "target": "extraction-solar-wind",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "writes",
+      "source": "extraction-solar-wind",
+      "target": "out-renewables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-temperature",
+      "target": "temp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "writes",
+      "source": "temp",
+      "target": "out-temperature",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-geojson-all",
+      "target": "geojson-script",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "writes",
+      "source": "geojson-script",
+      "target": "out-geojson-norte",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-ramp",
+      "target": "analyse-ramp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "out-clustering",
+      "target": "analyse-ramp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-ramp-suf",
+      "target": "analyse-ramp-suf",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-ramp",
+      "target": "demande",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "writes",
+      "source": "demande",
+      "target": "out-energyscope",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "out-clustering",
+      "target": "demande",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "writes",
+      "source": "exchanges",
+      "target": "out-energyscope",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "out-clustering",
+      "target": "exchanges",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-ramp",
+      "target": "misc-json",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "writes",
+      "source": "misc-json",
+      "target": "out-energyscope",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-reference",
+      "target": "resources",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "out-renewables",
+      "target": "resources",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "writes",
+      "source": "resources",
+      "target": "out-energyscope",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-reference",
+      "target": "technologies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "writes",
+      "source": "technologies",
+      "target": "out-energyscope",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "data-reference",
+      "target": "time-series",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "out-renewables",
+      "target": "time-series",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "reads",
+      "source": "out-temperature",
+      "target": "time-series",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "writes",
+      "source": "time-series",
+      "target": "out-energyscope",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "b9f34c05f2a87eb0b8cdf75c41e8b059fddbf25b"
+}

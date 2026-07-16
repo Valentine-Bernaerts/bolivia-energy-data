@@ -1,0 +1,49 @@
+fid,fid_1,Propietari,Tipo,Central,Pot_kW
+1,1,ENDE DELEBENI,Termoelectrica Diesel o Gas Oil,Cachuela Esperanza,840.0
+2,3,ENDE,Termoelectrica Diesel o Gas Oil,Riberalta,31400.0
+3,11,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Puerto Chavez,8.0
+4,12,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,La Salud,80.0
+5,13,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Alta Gracia,58.0
+6,14,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,El Cairo,44.0
+7,15,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Jasiaquiri,110.0
+8,16,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,La Embrolla,24.0
+9,17,ENDE DELBENI,Solar Hibrido,Remanso,200.0
+10,18,ENDE DELBENI,Solar Hibrido,Puerto Villazon,156.0
+11,19,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Calama,24.0
+12,20,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Cayoba,180.0
+13,21,ENDE DELBENI,Solar Hibrido,San Simon,180.0
+14,22,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Tiquin,250.0
+15,24,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Rosario del Yata,1210.0
+16,25,ENDE Guaracachi,Solar Fotovotaica,Planta Solar Cobija,5100.0
+17,26,ENDE Guaracachi,Termoelectrica Gas Natural,San Matias,4740.0
+18,27,CRE,Termoelectrica Gas Natural,Mataral,12990.0
+19,30,CRE,Termoelectrica Gas Natural,Puerto Suarez,23200.0
+20,32,SEPSA,Micro Central Hidroelectrica,Quetena,28.0
+21,33,Comite de Electrificacion,Micro Central Hidroelectrica,Amaguaya,60.0
+22,36,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Bocorondo,16.0
+23,37,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Puerto Siles,10.0
+24,38,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Cooperativa,16.0
+25,39,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,San Juan de Puerto Ustarez,440.0
+26,40,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Santa Rosa de Vigo,10.0
+27,41,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Rancho Ginebra,18.0
+28,42,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Santa Maria,20.0
+29,43,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,San Carlos,16.0
+30,44,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Las Maravillas,18.0
+31,45,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Coquinal,48.0
+32,47,ENDE,Termoelectrica Diesel o Gas Oil,Cobija,27360.0
+33,46,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Nueva Esperanza,17.0
+34,2,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Guayaramerin,19530.0
+35,8,CRE,Termoelectrica Diesel o Gas Oil,San Ignacio de Velasco,11070.0
+36,28,CRE,Termoelectrica Gas Natural,Charagua,3190.0
+37,9,ENDE DELBENI,Solar Hibrido,El Sena,4620.0
+38,4,ENDE DELBENI,Termoelectrica Diesel o Gas Oil,Baures,1040.0
+39,29,CRE,Termoelectrica Gas Natural,Ipias,9500.0
+40,0,ENDE,Termoelectrica Diesel o Gas Oil,Villa Nueva,1440.0
+41,0,ENDE,Termoelectrica Diesel o Gas Oil,Gonzalo Moreno,2400.0
+45,,Comite de Electrificacion,Termoelectrica Diesel o Gas Oil,Humaita,
+46,,Comite de Electrificacion,Termoelectrica Diesel o Gas Oil,Ingavi,1.0
+47,,Comite de Electrificacion,Termoelectrica Diesel o Gas Oil,Trinidacito,1.0
+48,,Comite de Electrificacion,Termoelectrica Diesel o Gas Oil,El Tuna,1.0
+49,,Comite de Electrificacion,Termoelectrica Diesel o Gas Oil,Nueva Esperanza Santa Cruz,1.0
+50,,Comite de Electrificacion,Termoelectrica Diesel o Gas Oil,San Francisco,1.0
+51,,Comite de Electrificacion,Termoelectrica Diesel o Gas Oil,Santo Corazon,1.0
