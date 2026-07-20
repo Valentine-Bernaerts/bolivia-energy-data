@@ -1,4 +1,4 @@
-﻿Technologies param;c_p;fmin_perc;fmax_perc;f_min;f_max
+Technologies param;c_p;fmin_perc;fmax_perc;f_min;f_max
 NUCLEAR;0.843906;0.0;1.0;0.0;0.0
 NUCLEAR_SMR;0.843906;0.0;1.0;0.0;0.0
 CCGT_AMMONIA;0.9615;0.0;1.0;0.0;0.0
