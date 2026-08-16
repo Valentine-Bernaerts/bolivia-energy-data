@@ -1,6 +1,6 @@
-Cluster,share_dispersion,extension_capex_EUR,N_connectable,N_dispersed,f_min_PV_HS_GW,f_min_HS_DIESEL_GW,f_min_BATT_HS_GWh
-C1,0.166,9168870.0,76,88,2.509e-05,0.00018704,6.172e-05
-C2,0.1487,1614644.0,10,6,6.5e-07,2.091e-05,1.6e-06
-C3,0.0179,7566979.0,117,43,8.07e-06,5.802e-05,1.986e-05
-C4,0.0774,19370468.0,227,116,1.043e-05,0.00015291,2.567e-05
-C5,0.0,157242.0,14,0,0.0,0.0,0.0
+Cluster,share_dispersion,extension_capex_EUR,N_connectable,N_dispersed,f_min_PV_HS_GW,f_min_HS_DIESEL_GW,f_min_BATT_HS_GWh,share_dispersion_runs_verrouilles
+C1,0.0213,48086430.0,137,27,4.18e-06,2.328e-05,1.029e-05,0.166
+C2,0.0,3797317.0,16,0,0.0,0.0,0.0,0.1487
+C3,0.0026,19185809.0,148,12,8.4e-07,6.88e-06,2.07e-06,0.0179
+C4,0.0128,41798500.0,299,44,4.9e-07,2.57e-05,1.2e-06,0.0774
+C5,0.0,157242.0,14,0,0.0,0.0,0.0,0.0

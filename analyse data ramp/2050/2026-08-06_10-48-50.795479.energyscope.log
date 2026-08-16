@@ -1,0 +1,64 @@
+26/08/06 10:48:52 [INFO    ] (read_data_indep): Read indep data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\no_transition\00_INDEP
+26/08/06 10:48:52 [INFO    ] (init_regions): Initialising regions: C1, C2, C3, C4, C5
+26/08/06 10:48:52 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\no_transition\02_REF_REGION
+26/08/06 10:48:52 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\no_transition\C1
+26/08/06 10:48:52 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\no_transition\C2
+26/08/06 10:48:52 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\no_transition\C3
+26/08/06 10:48:52 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\no_transition\C4
+26/08/06 10:48:52 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\no_transition\C5
+26/08/06 10:48:52 [INFO    ] (read_data_exch): Read exchanges data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\no_transition\01_EXCH
+26/08/06 10:48:52 [INFO    ] (init_ta): Initializing TemporalAggregation with read algorithm
+26/08/06 10:48:53 [INFO    ] (read_td_of_days): Reading typical days from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\case_studies\C1_C2_C3_C4_C5\00_td_dat\TD_of_days_16.out
+26/08/06 10:48:53 [INFO    ] (__init__): The typical days clustering has an time series error of 0.0570728969719696
+26/08/06 10:48:53 [INFO    ] (generate_t_h_td): t_h_td and td_count generated
+26/08/06 10:48:53 [INFO    ] (print_td_data): Printing TD data into C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\case_studies\C1_C2_C3_C4_C5\norte_amazonia_no_transition_2050\reg_16TD.dat
+26/08/06 10:48:53 [INFO    ] (generate_t_h_td): t_h_td and td_count generated
+26/08/06 10:48:53 [INFO    ] (print_data): Printing regional data into C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\case_studies\C1_C2_C3_C4_C5\norte_amazonia_no_transition_2050
+26/08/06 10:48:53 [INFO    ] (read_data_indep): Read indep data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access\00_INDEP
+26/08/06 10:48:53 [INFO    ] (init_regions): Initialising regions: C1, C2, C3, C4, C5
+26/08/06 10:48:53 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access\02_REF_REGION
+26/08/06 10:48:53 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access\C1
+26/08/06 10:48:53 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access\C2
+26/08/06 10:48:53 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access\C3
+26/08/06 10:48:53 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access\C4
+26/08/06 10:48:53 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access\C5
+26/08/06 10:48:53 [INFO    ] (read_data_exch): Read exchanges data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access\01_EXCH
+26/08/06 10:48:53 [INFO    ] (init_ta): Initializing TemporalAggregation with read algorithm
+26/08/06 10:48:53 [INFO    ] (read_td_of_days): Reading typical days from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\case_studies\C1_C2_C3_C4_C5\00_td_dat\TD_of_days_16.out
+26/08/06 10:48:53 [INFO    ] (__init__): The typical days clustering has an time series error of 0.0570728969719696
+26/08/06 10:48:53 [INFO    ] (generate_t_h_td): t_h_td and td_count generated
+26/08/06 10:48:53 [INFO    ] (print_td_data): Printing TD data into C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\case_studies\C1_C2_C3_C4_C5\norte_amazonia_early_access_2050\reg_16TD.dat
+26/08/06 10:48:53 [INFO    ] (generate_t_h_td): t_h_td and td_count generated
+26/08/06 10:48:54 [INFO    ] (print_data): Printing regional data into C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\case_studies\C1_C2_C3_C4_C5\norte_amazonia_early_access_2050
+26/08/06 10:48:54 [INFO    ] (read_data_indep): Read indep data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\late_access\00_INDEP
+26/08/06 10:48:54 [INFO    ] (init_regions): Initialising regions: C1, C2, C3, C4, C5
+26/08/06 10:48:54 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\late_access\02_REF_REGION
+26/08/06 10:48:54 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\late_access\C1
+26/08/06 10:48:54 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\late_access\C2
+26/08/06 10:48:54 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\late_access\C3
+26/08/06 10:48:54 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\late_access\C4
+26/08/06 10:48:54 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\late_access\C5
+26/08/06 10:48:54 [INFO    ] (read_data_exch): Read exchanges data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\late_access\01_EXCH
+26/08/06 10:48:54 [INFO    ] (init_ta): Initializing TemporalAggregation with read algorithm
+26/08/06 10:48:54 [INFO    ] (read_td_of_days): Reading typical days from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\case_studies\C1_C2_C3_C4_C5\00_td_dat\TD_of_days_16.out
+26/08/06 10:48:54 [INFO    ] (__init__): The typical days clustering has an time series error of 0.0570728969719696
+26/08/06 10:48:54 [INFO    ] (generate_t_h_td): t_h_td and td_count generated
+26/08/06 10:48:54 [INFO    ] (print_td_data): Printing TD data into C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\case_studies\C1_C2_C3_C4_C5\norte_amazonia_late_access_2050\reg_16TD.dat
+26/08/06 10:48:54 [INFO    ] (generate_t_h_td): t_h_td and td_count generated
+26/08/06 10:48:54 [INFO    ] (print_data): Printing regional data into C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\case_studies\C1_C2_C3_C4_C5\norte_amazonia_late_access_2050
+26/08/06 10:48:54 [INFO    ] (read_data_indep): Read indep data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access_brazil\00_INDEP
+26/08/06 10:48:54 [INFO    ] (init_regions): Initialising regions: C1, C2, C3, C4, C5
+26/08/06 10:48:54 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access_brazil\02_REF_REGION
+26/08/06 10:48:54 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access_brazil\C1
+26/08/06 10:48:55 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access_brazil\C2
+26/08/06 10:48:55 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access_brazil\C3
+26/08/06 10:48:55 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access_brazil\C4
+26/08/06 10:48:55 [INFO    ] (read_data): Read data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access_brazil\C5
+26/08/06 10:48:55 [INFO    ] (read_data_exch): Read exchanges data from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\Data\2050\early_access_brazil\01_EXCH
+26/08/06 10:48:55 [INFO    ] (init_ta): Initializing TemporalAggregation with read algorithm
+26/08/06 10:48:55 [INFO    ] (read_td_of_days): Reading typical days from C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\case_studies\C1_C2_C3_C4_C5\00_td_dat\TD_of_days_16.out
+26/08/06 10:48:55 [INFO    ] (__init__): The typical days clustering has an time series error of 0.0570728969719696
+26/08/06 10:48:55 [INFO    ] (generate_t_h_td): t_h_td and td_count generated
+26/08/06 10:48:55 [INFO    ] (print_td_data): Printing TD data into C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\case_studies\C1_C2_C3_C4_C5\norte_amazonia_early_access_brazil_2050\reg_16TD.dat
+26/08/06 10:48:55 [INFO    ] (generate_t_h_td): t_h_td and td_count generated
+26/08/06 10:48:55 [INFO    ] (print_data): Printing regional data into C:\Valen\Tfe\EnergyScope_BO_nord_amazonia\case_studies\C1_C2_C3_C4_C5\norte_amazonia_early_access_brazil_2050

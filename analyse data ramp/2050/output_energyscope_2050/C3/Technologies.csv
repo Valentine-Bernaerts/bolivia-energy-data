@@ -53,7 +53,7 @@ Heat;Heat low temperature decentralised;Advanced cogeneration (Fuel cell) gas (d
 Heat;Heat low temperature decentralised;Bioler gas (decentralised);DEC_BOILER_GAS;174.39;5.232699691;21.09;17;1.0;0.0;1.0;1.3970346675931213e-05;1000000000000000.0;0.0;1000000000000000.0;
 Heat;Heat low temperature decentralised;Boiler wood (decentralised);DEC_BOILER_WOOD;508.68;17.79941942;21.09;17;1.0;0.0;1.0;0.0;0.0;0.0;1000000000000000.0;
 Heat;Heat low temperature decentralised;Boiler oil (decentralised);DEC_BOILER_OIL;156.62;9.394138028;21.09;17;1.0;0.0;1.0;0.0;0.0;0.0;1000000000000000.0;
-Heat;Heat low temperature decentralised;Solar thermal (decentralised);DEC_SOLAR;743.38;8.247963292;221.22;25;1.0;0.0;1.0;0.0;0.0;0.0;1000000000000000.0;
+Heat;Heat low temperature decentralised;Solar thermal (decentralised);DEC_SOLAR;743.38;8.247963292;221.22;25;1.0;0.0;1.0;0.0;1000000000000000.0;0.0;1000000000000000.0;
 Heat;Heat low temperature decentralised;Direct electrical heaters (decentralised);DEC_DIRECT_ELEC;42.16;0.184273541;1.47;15;1.0;0.0;1.0;0.0005449335225947;1000000000000000.0;0.0;1000000000000000.0;
 Cold;Space cooling;Electrical refrigeration cycle;DEC_ELEC_COLD;510.64;21.49;164.89;20;1.0;0.0;1.0;0.0;1000000000000000.0;0.0;1000000000000000.0;
 Cold;Space cooling;Thermal refrigeration cycle gas;DEC_THHP_GAS_COLD;327.63;9.65;381.93;20;1.0;0.0;1.0;0.0;0.0;0.0;1000000000000000.0;
@@ -268,6 +268,6 @@ Infrastructure;Infrastructure;JET_FUEL_PIPELINE;JET_FUEL_PIPELINE;0.134;0.001;0.
 Storage;Electricity storage;SUV_ELEC_PRIVATE_BATT;SUV_ELEC_PRIVATE_BATT;0.0;0.0;0.0;1;1.0;0.0;1.0;0.0;0.0;0.0;1000000000000000.0;
 Storage;Electricity storage;MOTORCYCLE_ELEC_PRIVATE_BATT;MOTORCYCLE_ELEC_PRIVATE_BATT;0.0;0.0;0.0;1;1.0;0.0;1.0;0.0;0.0;0.0;1000000000000000.0;
 Storage;Electricity storage;BUS_ELEC_PUBLIC_BATT;BUS_ELEC_PUBLIC_BATT;0.0;0.0;0.0;1;1.0;0.0;1.0;0.0;0.0;0.0;1000000000000000.0;
-Electricity;Electricity;Photovoltaic HomeSystem;PV_HS;2730.0;10.0;2081.43;20;1.0;0.0;1.0;0.0;1000000000000000.0;0.0;1000000000000000.0;
-Electricity;Electricity;Diesel genset HomeSystem;HS_DIESEL;1302.41;4.5;516.55;5;0.85;0.0;1.0;0.0;1000000000000000.0;0.0;1000000000000000.0;
+Electricity;Electricity;Photovoltaic HomeSystem;PV_HS;2730.0;10.0;2081.43;20;1.0;0.0;1.0;0.0;1000000000000000.0;0.0;0.6478;
+Electricity;Electricity;Diesel genset HomeSystem;HS_DIESEL;1302.41;4.5;516.55;5;0.85;0.0;1.0;0.0;1000000000000000.0;0.0;0.6478;
 Storage;Electricity storage;Batteries HomeSystem;BATT_HS;594.0;10.0;61.3;10;1.0;0.0;1.0;0.0;1000000000000000.0;0.0;1000000000000000.0;

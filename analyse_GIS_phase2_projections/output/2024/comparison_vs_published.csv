@@ -1,5 +1,10 @@
 metric,published,this_run_2024_price_change_only,delta,pct_change
 N_connectable,455,444.0,-11.0,-2.42
 N_dispersed,242,253.0,11.0,4.55
-extension_capex_EUR,45580000,37878203.0,-7701797.0,-16.9
-extension_capex_annualized_EUR,4840000,4018091.0,-821909.0,-16.98
+extension_capex_star_sans_transfo_EUR,45580000,37878203.0,-7701797.0,-16.9
+extension_capex_star_sans_transfo_annualise_EUR,4840000,4018091.0,-821909.0,-16.98
+extension_capex_EUR,,22920277.0,,
+extension_capex_annualise_EUR,,2431367.0,,
+extension_capex_star_EUR,,39314099.0,,
+km_MT_arbre,,2308.06,,
+km_MT_a_raccorder,,4279.419999999999,,
