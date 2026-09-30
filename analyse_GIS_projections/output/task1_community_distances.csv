@@ -1,0 +1,698 @@
+﻿Municipio_std,Cluster,Municipio_raw,Comunidad,No_tiene_2012,Poblacion_2012,distance_km,Dist_band
+Exaltación,C1,Segunda Sección - Exaltación,COOPERATIVA,8.0,234.0,0.027625456224268503,<5 km
+Exaltación,C1,Segunda Sección - Exaltación,RANCHO GINEBRA,14.0,401.0,0.2893848930985877,<5 km
+Exaltación,C1,Segunda Sección - Exaltación,COQUINAL,45.0,1050.0,0.3106811698370143,<5 km
+Exaltación,C1,Segunda Sección - Exaltación,PIRAQUINAL,1.0,65.0,4.436422153223954,<5 km
+Exaltación,C1,Segunda Sección - Exaltación,LAS PEÑAS DE NAZARETH,2.0,91.0,7.514763502507281,5-10 km
+Exaltación,C1,Segunda Sección - Exaltación,LAS MARAVILLAS,25.0,147.0,8.093297385057392,5-10 km
+Exaltación,C1,Segunda Sección - Exaltación,SANTA FE,9.0,94.0,12.478686656032538,10-25 km
+Exaltación,C1,Segunda Sección - Exaltación,ANA MARIA,1.0,13.0,14.947912016385503,10-25 km
+Exaltación,C1,Segunda Sección - Exaltación,BIENVENIDO,4.0,114.0,29.221813894664894,25-50 km
+Exaltación,C1,Segunda Sección - Exaltación,LAS ABRAS,5.0,342.0,34.079462374268324,25-50 km
+Exaltación,C1,Segunda Sección - Exaltación,SAN CARLOS,23.0,237.0,34.45180940137411,25-50 km
+Exaltación,C1,Segunda Sección - Exaltación,PUERTO SANTIAGO,6.0,61.0,35.615363468924365,25-50 km
+Exaltación,C1,Segunda Sección - Exaltación,TROMPILLO,7.0,77.0,36.71180672843874,25-50 km
+Exaltación,C1,Segunda Sección - Exaltación,BOCORONDO,1.0,125.0,42.85105362676075,25-50 km
+Exaltación,C1,Segunda Sección - Exaltación,PALMERA,16.0,112.0,46.12542904511741,25-50 km
+Exaltación,C1,Segunda Sección - Exaltación,EXALTACION,31.0,1891.0,48.678779646664246,25-50 km
+Exaltación,C1,Segunda Sección - Exaltación,ESTANCIAS DISPERSAS,24.0,634.0,57.10143500622607,>50 km
+Exaltación,C1,Segunda Sección - Exaltación,NUEVO PARAISO,1.0,21.0,58.20864047666608,>50 km
+Exaltación,C1,Segunda Sección - Exaltación,SANTA ROSA,1.0,123.0,59.32797270361747,>50 km
+Exaltación,C1,Segunda Sección - Exaltación,20 DE ENERO,9.0,37.0,62.050104549449266,>50 km
+Exaltación,C1,Segunda Sección - Exaltación,SAN JUAN DEL RIO JORDAN,13.0,201.0,62.34544099613107,>50 km
+Exaltación,C1,Segunda Sección - Exaltación,EXALTACION DE SANTA CRUZ,3.0,101.0,71.7651403972844,>50 km
+Exaltación,C1,Segunda Sección - Exaltación,LAS PETAS,22.0,158.0,73.60713239456791,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,SANTA ROSA,50.0,210.0,78.93819956756441,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,ANTOFAGASTA,3.0,29.0,82.06981476533629,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,MONTECRISTO,6.0,8.0,89.85426430282816,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,SAN JUAN,9.0,97.0,90.05079977765743,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,EL CARMEN,13.0,67.0,91.75664299629949,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,EL TIGRE,22.0,183.0,95.62020907782461,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,NUEVA JERUSALEN,10.0,26.0,98.3359897914782,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,PAQUIOSAL,12.0,38.0,101.46713022249948,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,CAMPO BRAVO,3.0,21.0,113.66802824968063,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,CAMPO CENTRAL,23.0,95.0,117.32824267519597,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,LA MANSION,2.0,22.0,118.7339638607289,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,CAYUBABA,10.0,55.0,121.3428066525672,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,LA PAZ DEL BENI,13.0,56.0,122.95065874206658,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,OJAKI,18.0,152.0,124.23545203994034,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,BARRACON,10.0,124.0,124.66030024548795,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,ESPERANZA DEL MADIDI,2.0,9.0,124.97278953923377,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,SANTA MARIA,7.0,42.0,126.23633241639443,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,EL ZAPATO,1.0,48.0,127.19315855853876,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,EMBAJADORES DEL MADIDI,35.0,339.0,129.18667146999056,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,SANTA ANITA,11.0,60.0,129.99102835482572,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,CAMPESINA LAS PALMAS,13.0,42.0,130.9423780510106,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,LA PALCA,17.0,49.0,132.77021991111098,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,LAS PARRABAS,2.0,31.0,135.8286947027749,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,TOROMONAS,19.0,222.0,144.36910368006767,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,PUERTO PEREZ,19.0,166.0,151.97291073128244,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,PUERTO ARAONA,20.0,101.0,152.38786074832947,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,LAS MERCEDES,24.0,180.0,153.47903771608566,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,NUEVA ESPERANZA,3.0,54.0,153.93366877634884,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,CARMEN DEL EMERO,27.0,229.0,170.61077481629707,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,UNDUMO,9.0,48.0,232.0747615781988,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,SANTA ROSA DE LIMA,6.0,22.0,232.8771432226236,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,LOS ALMENDRILLO,9.0,16.0,235.68649324358316,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,SAN MARCOS,16.0,238.0,238.22298959981387,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,CARMEN TAHUA,7.0,240.0,242.90256406606832,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,SEGUNDO FLOR DE MAYO,8.0,49.0,245.79177245683624,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,SAN PEDRO,19.0,101.0,247.5211371096637,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,SANTA ANA,6.0,48.0,249.43210878971811,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,SANTA ROSA DE MARAVILLA,3.0,49.0,249.54464728829862,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,SAN FELIPE,1.0,28.0,255.04136320078211,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,TARENE,9.0,50.0,255.47255613968315,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,MACHAJ MARKA,14.0,18.0,255.7733921337819,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,EL CARMEN DE PECHA,25.0,89.0,256.2366500108519,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,PUERTO RUSO,25.0,134.0,256.6048945959564,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,PALMA  REAL,6.0,10.0,258.51912595835637,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,3 DE JUNIO,5.0,22.0,259.577027372189,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,MACAHUA,1.0,145.0,260.2928084422671,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,ALAMOS,4.0,6.0,260.5500235237416,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,30 DE AGOSTO,2.0,17.0,260.63890099694675,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,FLOR DE MAYO,6.0,7.0,260.6751881902263,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,IXIAMAS,161.0,4030.0,260.9383748255194,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,NUEVA EDEN,1.0,1.0,261.5323962298672,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,SANTA FE,24.0,95.0,263.1770781791034,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,ITURRALDE,8.0,15.0,263.8310173041485,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,BUENA VISTA,11.0,41.0,264.3808453131474,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,CORAZON DE LEON,11.0,21.0,264.6423956951001,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,SAN PABLO,1.0,2.0,264.89984286957696,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,RUSO,1.0,4.0,265.8275251242558,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,COMANDO,15.0,59.0,270.08671952943166,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,COROCORO,21.0,46.0,270.4380185633855,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,EL TIGRE ALTO MADIDI,56.0,317.0,271.1745560524269,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,NUEVO AMANECER,7.0,21.0,272.0002557193982,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,ALTO ZATARIAPU,16.0,76.0,274.12931699417254,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,AGUAS DE LA VIDA,5.0,6.0,274.64456864037237,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,CARINDE,16.0,30.0,274.95533459738874,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,5 DE JUNIO,14.0,30.0,275.9400547031831,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,TACASO,4.0,6.0,276.3831377964123,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,NUEVA BELEN,4.0,8.0,277.17656697586654,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,PIEDRAS BLANCAS,7.0,24.0,278.1595383024464,>50 km
+Ixiamas,C1,Primera Sección - Ixiamas,MANANTIAL,18.0,27.0,279.07124994961396,>50 km
+Reyes,C1,Primera Sección - Reyes,PEÑA AMARILLA,12.0,359.0,38.948926496061944,25-50 km
+Reyes,C1,Primera Sección - Reyes,CARMEN ALTO,71.0,378.0,39.186908686179905,25-50 km
+Reyes,C1,Primera Sección - Reyes,LA ESPERANZA,2.0,93.0,44.72744296460607,25-50 km
+Reyes,C1,Primera Sección - Reyes,LOS TUBOS,14.0,121.0,60.39505682800692,>50 km
+Reyes,C1,Primera Sección - Reyes,CALIFORNIA,43.0,211.0,64.04643938031406,>50 km
+Reyes,C1,Primera Sección - Reyes,CARNAVAL,8.0,51.0,67.65978599016432,>50 km
+Reyes,C1,Primera Sección - Reyes,SANTA LOURDES,15.0,64.0,84.01481009517305,>50 km
+Reyes,C1,Primera Sección - Reyes,LAS OLLITAS,1.0,16.0,89.25919840096377,>50 km
+Reyes,C1,Primera Sección - Reyes,CAMPO BOLIVAR,26.0,118.0,90.09677084977221,>50 km
+Reyes,C1,Primera Sección - Reyes,NUEVO REYES,5.0,107.0,95.6878372709061,>50 km
+Reyes,C1,Primera Sección - Reyes,BAQUETI,10.0,100.0,99.29029216793514,>50 km
+Reyes,C1,Primera Sección - Reyes,SAN JOSE,69.0,283.0,100.01567479156039,>50 km
+Reyes,C1,Primera Sección - Reyes,CANDELARIA,27.0,195.0,101.28611283893706,>50 km
+Reyes,C1,Primera Sección - Reyes,LAGO BUENA VISTA,21.0,96.0,104.07534896062876,>50 km
+Reyes,C1,Primera Sección - Reyes,NATIVIDAD,7.0,46.0,104.95377204427477,>50 km
+Reyes,C1,Primera Sección - Reyes,LAS MERCEDES,13.0,82.0,107.93973597560178,>50 km
+Reyes,C1,Primera Sección - Reyes,SAN MIGUEL,18.0,19.0,109.79342310247307,>50 km
+Reyes,C1,Primera Sección - Reyes,SANTA CATALINA,19.0,143.0,113.95108573408268,>50 km
+Reyes,C1,Primera Sección - Reyes,PUERTO CAVINA,16.0,112.0,118.96437968442413,>50 km
+Reyes,C1,Primera Sección - Reyes,NUEVA ALIANZA,1.0,41.0,118.98482504275353,>50 km
+Reyes,C1,Primera Sección - Reyes,PEÑA GUARAYO,14.0,95.0,121.53622358488235,>50 km
+Reyes,C1,Primera Sección - Reyes,MISION CAVINAS,37.0,140.0,121.86683720704558,>50 km
+Reyes,C1,Primera Sección - Reyes,PUERTO SALINAS,26.0,87.0,124.37184086987237,>50 km
+Reyes,C1,Primera Sección - Reyes,LAS PEÑITAS,7.0,139.0,124.81508766109083,>50 km
+Reyes,C1,Primera Sección - Reyes,SAN PEDRO,28.0,176.0,147.73145003108357,>50 km
+Reyes,C1,Primera Sección - Reyes,SAL SI PUEDES,4.0,33.0,168.3257494702793,>50 km
+Reyes,C1,Primera Sección - Reyes,NUEVA ESPERANZA,15.0,72.0,182.72037180363085,>50 km
+Reyes,C1,Primera Sección - Reyes,LOS TAJIBOS,7.0,50.0,186.3439118743752,>50 km
+Reyes,C1,Primera Sección - Reyes,RATIJE,48.0,427.0,192.40834360541098,>50 km
+Reyes,C1,Primera Sección - Reyes,SAN JUAN,24.0,70.0,196.8497514915213,>50 km
+Reyes,C1,Primera Sección - Reyes,MONTE CARLOS,7.0,90.0,206.31321598156703,>50 km
+Reyes,C1,Primera Sección - Reyes,BAYCHUJE,6.0,239.0,210.1700653831887,>50 km
+Reyes,C1,Primera Sección - Reyes,SAN FELIPE,15.0,155.0,211.82282780959918,>50 km
+Reyes,C1,Primera Sección - Reyes,SAN MIGUEL DE SORAIDA,4.0,125.0,214.55350934968058,>50 km
+Reyes,C1,Primera Sección - Reyes,GUALAGUAGUA,28.0,224.0,216.4225496534134,>50 km
+Reyes,C1,Primera Sección - Reyes,REYES,88.0,7202.0,216.99888023117128,>50 km
+Reyes,C1,Primera Sección - Reyes,ESTANCIAS DISPERSAS,26.0,6.0,217.86684742009263,>50 km
+Reyes,C1,Primera Sección - Reyes,SAN JOSE,9.0,82.0,220.8740857039286,>50 km
+Reyes,C1,Primera Sección - Reyes,LA UNION,19.0,136.0,221.41121373265258,>50 km
+Reyes,C1,Primera Sección - Reyes,GUAGUA UNO,40.0,149.0,222.6940145656605,>50 km
+Reyes,C1,Primera Sección - Reyes,RIO VIEJO,27.0,137.0,222.879292122845,>50 km
+Reyes,C1,Primera Sección - Reyes,REMANSO,2.0,23.0,223.6708036251618,>50 km
+Reyes,C1,Primera Sección - Reyes,EL COZAR,29.0,175.0,223.7218167471659,>50 km
+Reyes,C1,Primera Sección - Reyes,VILLA COPACABANA,29.0,170.0,226.29630625967906,>50 km
+Reyes,C1,Primera Sección - Reyes,NUEVO AMANECER,26.0,87.0,228.09449065714048,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,TABLERO,25.0,132.0,71.085948242433,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,AUSTRALIA,56.0,373.0,74.52552308013537,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,PORVENIR,1.0,124.0,81.0671119833166,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,TRINIDAD,12.0,53.0,82.99883496088543,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,CAVADOR,11.0,192.0,83.9908622484615,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,PALMA FLOR,30.0,281.0,84.23660474483056,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,MACEDONIA,20.0,132.0,86.7048676188656,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,PONTON SANTA TERESA DEL YATA,1.0,43.0,91.36857248835682,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,EL CERRITO,10.0,298.0,93.15078758442078,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,PUERTO TERESA,10.0,231.0,96.19598737415544,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,EL TORO,1.0,35.0,98.60029573932582,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,PUERTO YATA,2.0,164.0,99.42947253380994,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,EL ENCERRADO,2.0,199.0,102.58258280476315,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,TACUARAL,28.0,184.0,108.8468284739075,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,PALMIRA,2.0,56.0,125.79861344938554,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,EL CANDADO,10.0,239.0,126.41204620900173,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,LA INDIA,1.0,25.0,129.09442849987195,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,VILLAZON,1.0,24.0,129.45587357908843,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,EL ROSARIO,9.0,248.0,132.96062105482378,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,EL TRIUNFO,11.0,582.0,138.76149184494432,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,AWAISAL,1.0,114.0,140.4100665411726,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,VILLA FATIMA,3.0,155.0,143.87436647100145,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,PICAFLORES,3.0,111.0,144.47428296646413,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,SAN BARTOLOME,5.0,134.0,147.77166101036693,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,SANTA ROSA DE YACUMA,29.0,4727.0,158.8666704747445,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,EL MOJON,2.0,75.0,167.38652326975213,>50 km
+Santa_Rosa_Beni,C1,Tercera Sección - Santa Rosa,SAN CRISTOBAL,25.0,270.0,171.6636417836358,>50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,MUKDEN,41.0,432.0,30.753798607917805,25-50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,NAREUDA,14.0,343.0,39.270335830809955,25-50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,PUERTO ORO,1.0,71.0,44.10399727043072,25-50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,VERA CRUZ,19.0,197.0,47.47043486670445,25-50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,AGROPECUARIA EL CEIBO,33.0,64.0,48.93098723558685,25-50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,NUEVA CANAAN,50.0,183.0,49.8220208862404,25-50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,CANAAN,10.0,65.0,50.87432741475458,>50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,MOLIENDA,5.0,49.0,55.28058006344036,>50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,TRES ARROYOS,11.0,127.0,62.23468301599653,>50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,EXTREMA,6.0,55.0,63.01119865923469,>50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,BIOCEANICA,18.0,135.0,65.47080222507581,>50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,SAN JORGE,18.0,68.0,69.04025955736316,>50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,NOHAYA,13.0,49.0,75.26965076832676,>50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,SAN MIGUEL DE MACHINERI,5.0,37.0,77.1372561077753,>50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,YAMINAHUA,24.0,132.0,77.49328436415031,>50 km
+Bolpebra,C2,Segunda Sección - Bolpebra,SAN PEDRO DE BOLPEBRA,38.0,166.0,85.27523649401022,>50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,ROSARIO DEL YATA,39.0,580.0,0.0,<5 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,CACHUELA ESPERANZA,30.0,982.0,0.08193759416170852,<5 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,GUAYARAMERIN,227.0,0.0,0.8610968587035897,<5 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,PUERTO CARRERO,9.0,42.0,2.556467402869826,<5 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SAN PEDRO,1.0,5.0,3.959867860741212,<5 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,VILLA PURISIMA,10.0,43.0,4.356410183777761,<5 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SAN JOSE,13.0,74.0,4.589360745885463,<5 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,26 DE MARZO,14.0,106.0,6.129941226253708,5-10 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SANTA ROSA,24.0,185.0,6.333362248423065,5-10 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,EL PORVENIR,5.0,46.0,7.764550157370017,5-10 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,CACHUELA MAMORE,26.0,135.0,8.351200672798548,5-10 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SANTA EMILIA,5.0,23.0,8.76922019879416,5-10 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SAN FRANCISCO,12.0,103.0,8.8081602498459,5-10 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,8 DE FEBRERO,17.0,145.0,8.81382073007427,5-10 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,27 DE NOVIEMBRE,15.0,142.0,9.022888098950105,5-10 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SAN MIGUEL,32.0,104.0,9.164686386525537,5-10 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SANTA EMILIA,1.0,17.0,9.58679465826777,5-10 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,ESTANCIAS DISPERSAS,2.0,2.0,9.725875540324061,5-10 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SAN AGUSTIN,45.0,258.0,10.468077373462677,10-25 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SANTA LUCIA,2.0,107.0,10.582001232227956,10-25 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SANTA TERESA DEL YATA,4.0,234.0,11.118992345118064,10-25 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SAN JUAN,16.0,92.0,11.253149072294324,10-25 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,VILLA UNION,15.0,76.0,11.2981639362198,10-25 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,LA UNION,15.0,83.0,11.65646412590547,10-25 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,1RO DE MAYO,13.0,157.0,12.684575561577724,10-25 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SAN PEDRO,11.0,113.0,14.575461731361642,10-25 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,2 DE OCTUBRE,47.0,161.0,14.581890925842844,10-25 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SAN FRANSISCO DEL YATA,17.0,59.0,14.76065766965022,10-25 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,18 DE JUNIO,41.0,143.0,15.863082080580545,10-25 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SANTA TERESA DEL YATA,50.0,43.0,17.96799220293839,10-25 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,VILLA BELLA,26.0,200.0,18.494027974567548,10-25 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,14 DE SEPTIEMBRE,24.0,87.0,23.194642798742592,10-25 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SAN ROQUE,18.0,115.0,28.65433625287782,25-50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SANTA FE,22.0,132.0,29.060504208701925,25-50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,PUERTO CARRERO,2.0,100.0,29.108626218279912,25-50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,PALMA SOLA,11.0,119.0,36.47067569941855,25-50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,RANCHO GRANDE,4.0,49.0,40.38408051675995,25-50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,BARRANCO COLORADO,30.0,136.0,43.31153220657153,25-50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,VILLA NUEVA,6.0,42.0,51.397478235423655,>50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SAN JUAN DEL MAMORE,12.0,56.0,51.78525977435414,>50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SINAI,2.0,9.0,59.43523186104842,>50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SAN LORENZO,10.0,205.0,60.53986471365739,>50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,PUERTO COIMBRA,9.0,65.0,61.06026550255669,>50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,PUERTO BOLIVAR,8.0,66.0,62.68519024723435,>50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,SANTA FE DE LA CRUZ,7.0,91.0,63.07954358014262,>50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,FIRMEZA,4.0,20.0,69.65622739875305,>50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,LA ESPERANZA,1.0,3.0,70.53367067915084,>50 km
+Guayaramerín,C3,Segunda Sección - Guayaramerín,ROSARIO DEL YATA,7.0,27.0,77.35268916244563,>50 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,VILLA NUEVA,11.0,97.0,0.15820759200344087,<5 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,GONZALO MORENO,26.0,1839.0,1.0817250299389034,<5 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,SANTA ROSITA,11.0,84.0,1.6073642276268576,<5 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,AMERICA,13.0,130.0,3.3986510324975656,<5 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,CONTRAVARICIA,24.0,232.0,4.808440984073083,<5 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,LIBERTAD,9.0,242.0,5.688920808539753,5-10 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,LAS PIEDRAS,57.0,1133.0,5.906283075168716,5-10 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,FRONTERA,16.0,376.0,7.73670917568952,5-10 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,6 DE AGOSTO,12.0,144.0,8.794457696229141,5-10 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,AGUA DULCE,46.0,608.0,9.004974124375007,5-10 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,LAGO VICTORIA,13.0,192.0,9.694900661390186,5-10 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,BUEN FUTURO,8.0,355.0,9.820219292043776,5-10 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,21 DE SEPTIEMBRE,5.0,51.0,11.550321623421917,10-25 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,CANDELARIA,7.0,285.0,13.02920265821107,10-25 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,PORTACHUELO ALTO,11.0,219.0,13.325479160172911,10-25 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,PORTACHUELO MEDIO,25.0,440.0,13.932870449617317,10-25 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,PORTACHUELO BAJO,34.0,502.0,14.116286937731786,10-25 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,SAN CARLOS,12.0,127.0,14.69407908406396,10-25 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,SAN PABLO,4.0,306.0,18.6612810774771,10-25 km
+Puerto_Gonzalo_Moreno,C3,Primera Sección - Puerto Gonzalo Moreno,MIRAFLORES,26.0,667.0,20.377073261264645,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,RIBERALTA,989.0,0.0,1.3850872148694529,<5 km
+Riberalta,C3,Primera Sección - Riberalta,LAGO EL CARMEN,1.0,38.0,3.5292742032212234,<5 km
+Riberalta,C3,Primera Sección - Riberalta,SAN JUAN DEL URUCU,17.0,115.0,4.527843255481478,<5 km
+Riberalta,C3,Primera Sección - Riberalta,VILLA NAZARETH,9.0,93.0,5.246670678058819,5-10 km
+Riberalta,C3,Primera Sección - Riberalta,FLOR DE OCTUBRE,18.0,172.0,5.511627135826788,5-10 km
+Riberalta,C3,Primera Sección - Riberalta,LAS PALMERAS,28.0,148.0,5.963474650780122,5-10 km
+Riberalta,C3,Primera Sección - Riberalta,BUENA VISTA,11.0,63.0,6.160385871515482,5-10 km
+Riberalta,C3,Primera Sección - Riberalta,VILLA COTOCA,8.0,130.0,6.211898525453324,5-10 km
+Riberalta,C3,Primera Sección - Riberalta,TUMICHUCUA,30.0,435.0,6.2159670328491,5-10 km
+Riberalta,C3,Primera Sección - Riberalta,27 DE MAYO,11.0,42.0,6.413672276400956,5-10 km
+Riberalta,C3,Primera Sección - Riberalta,LA ESPERANZA,4.0,472.0,7.209601092487771,5-10 km
+Riberalta,C3,Primera Sección - Riberalta,LA UNION,35.0,139.0,7.227123875026729,5-10 km
+Riberalta,C3,Primera Sección - Riberalta,LAS MERCEDES,15.0,65.0,8.609038377928895,5-10 km
+Riberalta,C3,Primera Sección - Riberalta,AVAROA,10.0,73.0,8.700918798173284,5-10 km
+Riberalta,C3,Primera Sección - Riberalta,LAGO SAN JOSE,10.0,39.0,9.015564938784706,5-10 km
+Riberalta,C3,Primera Sección - Riberalta,SAN JOSE,14.0,76.0,9.23020042232759,5-10 km
+Riberalta,C3,Primera Sección - Riberalta,SIGLO XX,7.0,57.0,9.348379128471647,5-10 km
+Riberalta,C3,Primera Sección - Riberalta,PALESTINA,3.0,20.0,9.547724968195121,5-10 km
+Riberalta,C3,Primera Sección - Riberalta,SAN CRISTOBAL,18.0,118.0,10.232071820875356,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,SAN ARIEL,35.0,210.0,10.703706224101934,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,POPECHI,39.0,225.0,11.919017393031861,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,WARNES,36.0,407.0,11.96649629399243,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,SAN ANTONIO,6.0,247.0,12.036226167413902,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,NUEVA UNION,12.0,54.0,12.361281825032115,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,PALMIRA,18.0,81.0,12.627917594762595,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,12 DE OCTUBRE,12.0,104.0,12.8471954204456,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,CAMPO CENTRAL,32.0,197.0,14.724321280434369,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,ESTANCIAS DISPERSAS,2.0,16.0,15.120033124886666,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,7 DE JULIO,30.0,170.0,15.414257811076508,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,CANDELARIA,12.0,218.0,16.186500030734155,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,SAN LORENZO DE PAMPA,20.0,73.0,16.394596795182007,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,SANTA ROSA DEL IVON,19.0,67.0,16.56519373358094,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,BOLIVAR,30.0,298.0,16.582358114441984,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,SAN ARIEL,6.0,56.0,16.73191093909134,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,MONTE CRISTO,2.0,15.0,17.247655657546645,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,SANTA FE,17.0,126.0,17.81972495661862,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,BELLA FLOR,26.0,141.0,17.923354658173466,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,ANTOFAGASTA,26.0,120.0,17.924543619362048,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,BERLIN,29.0,172.0,18.415256147801628,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,SANTA MARIA,43.0,268.0,18.500359603873736,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,SAN JUAN KM 42,20.0,92.0,19.974074771303616,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,MEDIO MONTE,15.0,113.0,20.23593625135229,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,PARAISO,3.0,40.0,20.548577953438222,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,SANTA RITA,11.0,40.0,20.959007381130085,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,SANTUARIO,8.0,87.0,21.019766895511545,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,SANTA AMALIA,31.0,208.0,21.387413443780048,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,HAMBURGO,3.0,13.0,21.461606883102736,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,EL HONDO,19.0,82.0,22.182361997468462,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,SAN ANTONIO,35.0,19.0,23.103663468378326,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,PALESTINA,9.0,12.0,23.68668916905577,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,PALMIRA DEL IVON,27.0,90.0,23.74395585246041,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,EL TRIANGULO,1.0,35.0,23.926095644776282,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,DESVELO,27.0,70.0,24.426417924505618,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,26 DE OCTUBRE,29.0,120.0,24.589804712026606,10-25 km
+Riberalta,C3,Primera Sección - Riberalta,AGUA CLARA,2.0,124.0,25.03632921982185,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,PALESTINA,10.0,55.0,25.089127475894337,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,ALADITA,7.0,24.0,25.157329541073,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,ALTA GRACIA,12.0,73.0,25.501449388955397,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,SAN JUAN,42.0,179.0,25.94140300457971,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,BRILLANTE,13.0,103.0,26.00245807383381,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,LOS ANGELES,1.0,57.0,27.84042271294687,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,CENTRITO,5.0,28.0,28.163025243660307,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,BUEN RETIRO,11.0,67.0,28.761902387882717,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,PUERTO CHACOBO,87.0,287.0,29.055668634843,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,CONSUELO DEL ROSARIO,34.0,197.0,29.08012434980318,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,IVARENDA,2.0,2.0,29.778858246598993,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,BUENA VISTA,10.0,64.0,29.838728988275623,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,POZA NEGRA,12.0,55.0,32.048148348817996,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,PUERTO ROMAN,23.0,142.0,32.70754152850186,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,COSTA RICA,10.0,101.0,37.44086980874057,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,VICTORIA,15.0,103.0,38.49999844764202,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,5 DE AGOSTO,12.0,95.0,38.7327275874631,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,CANDELARIA,29.0,37.0,38.889112415149484,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,TOKIO,11.0,53.0,45.14371420007937,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,SANTA ELENA DEL LAGO,5.0,58.0,48.18814220746707,25-50 km
+Riberalta,C3,Primera Sección - Riberalta,LAS LIMAS,10.0,67.0,54.156263442417554,>50 km
+Riberalta,C3,Primera Sección - Riberalta,LOS CAYUCES,1.0,2.0,55.6247998464879,>50 km
+Riberalta,C3,Primera Sección - Riberalta,LA SABANA,7.0,66.0,57.542585843946384,>50 km
+Riberalta,C3,Primera Sección - Riberalta,LA UNION II,10.0,6.0,60.29283743870528,>50 km
+Riberalta,C3,Primera Sección - Riberalta,EL RECREO,26.0,124.0,63.21069947269025,>50 km
+Riberalta,C3,Primera Sección - Riberalta,SAN FRANCISCO,15.0,108.0,65.66317468158296,>50 km
+Riberalta,C3,Primera Sección - Riberalta,SANTA DELMIRA,8.0,59.0,65.70171006701216,>50 km
+Riberalta,C3,Primera Sección - Riberalta,ALTO IVON,90.0,585.0,67.97041468755486,>50 km
+Riberalta,C3,Primera Sección - Riberalta,CACHUELITA,9.0,54.0,69.03714330147065,>50 km
+Riberalta,C3,Primera Sección - Riberalta,SANTA ROSA DEL BIATA,11.0,71.0,69.12238111237338,>50 km
+Riberalta,C3,Primera Sección - Riberalta,LA UNION II,1.0,65.0,69.2000199129693,>50 km
+Riberalta,C3,Primera Sección - Riberalta,PUERTO CHACOBO,11.0,44.0,72.02690841048131,>50 km
+Riberalta,C3,Primera Sección - Riberalta,FORTALEZA,7.0,50.0,75.19912197784025,>50 km
+Riberalta,C3,Primera Sección - Riberalta,SANTA ROSA DEL FLORIDA,18.0,74.0,75.60081066853616,>50 km
+Riberalta,C3,Primera Sección - Riberalta,BUEN DESTINO,29.0,210.0,81.72335977436977,>50 km
+Riberalta,C3,Primera Sección - Riberalta,3 BOCAS,2.0,17.0,83.52540236742054,>50 km
+Riberalta,C3,Primera Sección - Riberalta,LOS CAYUCES,26.0,138.0,86.60195364121209,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,SAN PEDRO,11.0,62.0,18.99719041243626,10-25 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,SANTA LOURDES,19.0,216.0,33.9861670201444,25-50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,VERONICA,9.0,40.0,35.48758834044496,25-50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,16 DE MAYO,11.0,47.0,44.09902432588211,25-50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,NUEVO BELEN,8.0,53.0,44.926498409639514,25-50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,KARAMANU,7.0,106.0,49.17475762354174,25-50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,PERLA DEL ORIENTE,2.0,36.0,55.00079509549012,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,FLORIDA,6.0,37.0,56.493245815607146,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,PALACIOS,9.0,40.0,56.63762050304172,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,NUEVO HORIZONTE,13.0,30.0,60.85950931387929,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,FORTIN,41.0,127.0,62.043029168616236,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,VILLA AMAZONICA,7.0,215.0,62.54049082495697,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,EL CARMEN,26.0,166.0,63.94913713916095,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,NUEVA VIDA,12.0,172.0,71.00895329729134,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,SAN ANTONIO,29.0,256.0,74.74684886295448,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,SAN PEDRO,14.0,190.0,76.25860174977873,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,ALEGRIA,7.0,25.0,77.85775421221942,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,MONTEVIDEO PUERTO EVO,23.0,721.0,78.83522186620057,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,CINCO ESTRELLAS,7.0,31.0,78.8386294855841,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,SANTA ELENA,40.0,113.0,78.84657770761748,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,CAMPOANA CASTAÑERA,23.0,143.0,79.5366762665655,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,MONTE VIDEO,14.0,46.0,79.90154697958943,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,INTEGRAL CIVICA,4.0,11.0,83.20994579976006,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,SANTA LUCIA,18.0,308.0,83.6302391190475,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,NUEVA ESPERANZA,7.0,27.0,84.70812597001584,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,SANTA RITA,29.0,184.0,85.14470799414376,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,SANTA MARIA,13.0,150.0,86.7914477701812,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,VILLA MAVARI,4.0,64.0,92.25970065435823,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,PUERTO VARGAS ARROYO GRANDE,16.0,99.0,96.20667587085894,>50 km
+Bella_Flor,C4,Tercera Sección - Bella Flor,MAPAJO,33.0,247.0,99.93520140684085,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,FILADELFIA,21.0,368.0,29.230926705666697,25-50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,NUEVA UNION,7.0,114.0,33.62470871745286,25-50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,RIMBER ECUARI,6.0,34.0,36.44815051128163,25-50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,PURISIMA,15.0,81.0,37.10643733362157,25-50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,LAGO 2,17.0,51.0,39.45100560626243,25-50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,PLANCHON,9.0,74.0,40.24098972695376,25-50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,VILLA BELLA,14.0,134.0,40.61841502306077,25-50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,AMAZONICA,21.0,134.0,43.311806666745674,25-50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,LAGO,24.0,98.0,43.65988083384014,25-50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,EMPRESIÑA,8.0,157.0,46.278124936322335,25-50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,SAN FRANCISCO DE ASIS,7.0,20.0,47.187683541960254,25-50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,SAN ANTONIO,6.0,109.0,47.30500218809031,25-50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,LONDRES,16.0,133.0,49.804420365921814,25-50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,10 DE NOVIEMBRE,9.0,97.0,52.247072773129055,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,LONDRES II,8.0,68.0,54.33581891411343,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,FELIX ROCA,1.0,82.0,54.91188814675781,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,19 DE AGOSTO,14.0,76.0,55.66650868116102,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,NUEVA ALIANZA,22.0,88.0,55.82439986757258,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,VISTA HERMOSA,15.0,42.0,56.91023668440293,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,BUYUYO 2,11.0,86.0,58.7607531454365,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,NUEVA ALEGRIA,9.0,61.0,58.88900939631856,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,BUYUYO,11.0,158.0,58.97871224232365,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,COMPENSACION ESPIRITU I,1.0,7.0,60.73184885684687,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,REINO DE LOS LOBOS,2.0,15.0,61.30782745966669,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,GRAN TULAPA,3.0,22.0,61.78931846577955,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,CAPERNAUN,2.0,21.0,61.99548572503026,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,PUERTO SUCRE,11.0,71.0,63.20015636847994,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,SAN FRANCISCO,10.0,56.0,64.05763877341764,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,VILLA SACRIFICIO,10.0,71.0,64.2296065924848,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,PETRONILA,3.0,101.0,64.42422397701687,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,NUEVA FRONTERA,17.0,19.0,65.82488263543209,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,VILLA PRIMERO DE MAYO,8.0,109.0,66.23097191919302,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,18 DE NOVIEMBRE,15.0,109.0,66.95172495465586,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,MONTECARLO,1.0,51.0,67.92603466313908,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,ESPIRITU II,12.0,93.0,68.92679422970267,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,HONDURAS,1.0,40.0,69.02328194754843,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,ESPIRITU,15.0,126.0,72.64911679135928,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,11 DE SEPTIEMBRE,21.0,62.0,72.88304779310698,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,LIMON,12.0,107.0,75.05033362998925,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,NUEVA JERUSALEN,8.0,60.0,75.10728716783292,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,HOLANDA,14.0,132.0,76.1850673471989,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,UCIA,43.0,173.0,77.44590367821893,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,ALTO MONTE EL PINPOLLO SAMARIA,29.0,94.0,79.55297248584888,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,ALTA GRACIA,1.0,86.0,80.06166563090254,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,EL CHORRO,2.0,72.0,86.95239719111936,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,NUEVA HOLANDA,15.0,34.0,90.0343747266647,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,SOBERANIA BELLA VISTA,37.0,387.0,91.02198231138382,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,CURICHON,18.0,238.0,97.71326717596925,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,SAN ANTONIO,3.0,65.0,108.68501224111142,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,CATOLICA LA CRUZ,7.0,155.0,112.53811259683604,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,LUZ DE AMERICA,9.0,205.0,116.60900310355912,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,FLORIDA,8.0,184.0,124.23533289091142,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,CHIVE,24.0,463.0,146.22083261115668,>50 km
+Filadelfia,C4,Tercera Sección - Filadelfia,GRAN PROGRESO,9.0,54.0,147.24360569897163,>50 km
+Ingavi,C4,Segunda Sección - Ingavi,INGAVI,42.0,386.0,0.07185694602991648,<5 km
+Ingavi,C4,Segunda Sección - Ingavi,HUMAITA,17.0,554.0,0.09839541557805034,<5 km
+Ingavi,C4,Segunda Sección - Ingavi,LAS AMALIAS,3.0,48.0,3.9311414195246313,<5 km
+Ingavi,C4,Segunda Sección - Ingavi,SAN JUAN DE NUEVO MUNDO,13.0,69.0,7.838327675160487,5-10 km
+Ingavi,C4,Segunda Sección - Ingavi,DERREPENTE,9.0,161.0,12.280321562514395,10-25 km
+Ingavi,C4,Segunda Sección - Ingavi,SAN LUIS,2.0,91.0,13.661376987511353,10-25 km
+Ingavi,C4,Segunda Sección - Ingavi,GENESIS UNIDO,7.0,26.0,20.284430055029137,10-25 km
+Ingavi,C4,Segunda Sección - Ingavi,PUERTO SUCRE,14.0,57.0,24.95058599089008,10-25 km
+Ingavi,C4,Segunda Sección - Ingavi,SANTA CLAUDIA,5.0,29.0,30.478982428658856,25-50 km
+Ingavi,C4,Segunda Sección - Ingavi,CONFLICTO,9.0,151.0,42.62979509650902,25-50 km
+Ingavi,C4,Segunda Sección - Ingavi,JERUSALEN,15.0,73.0,68.0090529718373,>50 km
+Ingavi,C4,Segunda Sección - Ingavi,11 DE OCTUBRE,3.0,22.0,74.84172398100142,>50 km
+Ingavi,C4,Segunda Sección - Ingavi,TAJIBO,12.0,60.0,95.20762936189617,>50 km
+Nueva_Esperanza,C4,Primera Sección - Nueva Esperanza,PUERTO CONSUELO II,17.0,216.0,1.8040097389075727,<5 km
+Nueva_Esperanza,C4,Primera Sección - Nueva Esperanza,PUERTO CONSUELO I,29.0,92.0,7.213943380082009,5-10 km
+Nueva_Esperanza,C4,Primera Sección - Nueva Esperanza,ASERRADERO LOS INDIOS,3.0,145.0,11.210261866637643,10-25 km
+Nueva_Esperanza,C4,Primera Sección - Nueva Esperanza,LA GRAN CRUZ,19.0,124.0,27.81117201228249,25-50 km
+Nueva_Esperanza,C4,Primera Sección - Nueva Esperanza,NUEVA UNION,51.0,315.0,37.26644827026421,25-50 km
+Nueva_Esperanza,C4,Primera Sección - Nueva Esperanza,16 DE MAYO,9.0,208.0,37.47789175163105,25-50 km
+Nueva_Esperanza,C4,Primera Sección - Nueva Esperanza,EL TIGRE,22.0,55.0,37.75800654683214,25-50 km
+Nueva_Esperanza,C4,Primera Sección - Nueva Esperanza,ARCA DE ISRAEL,38.0,237.0,42.49885853482343,25-50 km
+Nueva_Esperanza,C4,Primera Sección - Nueva Esperanza,LA LOMA,1.0,21.0,45.81883793160469,25-50 km
+Nueva_Esperanza,C4,Primera Sección - Nueva Esperanza,NUEVA ESPERANZA,14.0,655.0,59.26567671446194,>50 km
+Porvenir,C4,Primera Sección - Porvenir,AGUA RICA,23.0,156.0,11.132630983632858,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,5 DE AGOSTO,10.0,153.0,14.360830532987066,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,GRAN CHACO,10.0,43.0,14.43665681348035,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,NUEVA VIDA,10.0,125.0,15.465415420107954,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,VILLA ROJAS,42.0,1231.0,15.549576060188569,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,SANTA FE,26.0,116.0,15.677905883321515,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,COCAMITA,7.0,181.0,16.099745961091525,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,SAN JORGE,9.0,60.0,17.229608593862277,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,CACHUELITA ALTA,10.0,147.0,17.552951361823848,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,PORVENIR,94.0,4391.0,18.444606989207134,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,COLORADO,13.0,125.0,18.483086572025957,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,EL CEDRO,2.0,19.0,19.297819059109788,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,NUEVA ESPERANZA,12.0,137.0,20.74794345139255,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,CACHUELITA BAJO,8.0,122.0,21.206107354180656,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,BUENA VISTA,13.0,95.0,21.323143458162466,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,TRES BARRACAS,3.0,51.0,21.47400463340147,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,CAMPO ANA,13.0,116.0,22.40041852828742,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,SAN JOSE,11.0,161.0,24.240998859315248,10-25 km
+Porvenir,C4,Primera Sección - Porvenir,VILLA MARIETA,8.0,40.0,26.35661909651637,25-50 km
+Porvenir,C4,Primera Sección - Porvenir,CASTAÑERA,6.0,92.0,26.58045486278023,25-50 km
+Porvenir,C4,Primera Sección - Porvenir,SAN LUIS,12.0,127.0,27.786926597390245,25-50 km
+Porvenir,C4,Primera Sección - Porvenir,TRINCHERA,13.0,171.0,29.787777900252188,25-50 km
+Porvenir,C4,Primera Sección - Porvenir,SAN LUIS,15.0,83.0,54.40661339692635,>50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,PUERTO MADRE DE DIOS,3.0,64.0,2.1565366521019547,<5 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,SACRIFICIO,8.0,176.0,11.601803666194204,10-25 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,IRAK,15.0,117.0,14.14436189469337,10-25 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,FLORENCIA,1.0,3.0,16.370955126908296,10-25 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,BUENA VENTURA,5.0,35.0,19.767687691177443,10-25 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,JERICO,14.0,128.0,20.18952777046046,10-25 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,CONQUISTA,10.0,504.0,21.172810028567355,10-25 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,BATRAJA,32.0,264.0,22.418637774106152,10-25 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,VICTORIA,1.0,20.0,23.622238430258207,10-25 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,SAN ANTONIO EL MATI,6.0,238.0,26.314884739629058,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,MOTACUZAL,11.0,63.0,26.85828940502117,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,LOS ANGELES,6.0,64.0,27.592798438281054,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,CAMPEONES,21.0,152.0,28.15279698967119,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,CANAN AGUADA,11.0,52.0,30.05242896489246,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,NACEBECITO,12.0,81.0,31.131849259115718,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,MANDARINO,4.0,163.0,33.04663569242896,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,DESLINDE,5.0,41.0,33.836149556067355,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,COCAL,14.0,142.0,33.92654302907289,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,LA ESPERANZA,4.0,5.0,33.950265845657405,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,MAPIMEJE,2.0,8.0,34.726605337665696,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,JAPA,1.0,7.0,35.86294264788025,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,BRUNO RACUA,13.0,47.0,36.39086480412566,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,EL PIÑAL,1.0,4.0,36.59071502874736,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,INDEPENDENCIA,7.0,66.0,36.60141459668453,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,PROVIDENCIA,1.0,18.0,36.6065943288625,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,CASCABELES,5.0,30.0,37.02973731886877,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,SAN JUAN,4.0,33.0,37.74010152378381,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,NUEVA JERUSALEN,17.0,84.0,40.31525245037847,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,AVAROA,7.0,129.0,44.39943984804035,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,BOLIVAR,1.0,8.0,45.027212733734075,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,PENINSULA,2.0,8.0,45.062769168821326,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,LITORAL,7.0,29.0,45.8234557102913,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,CAMACHO,1.0,14.0,47.24720349933644,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,ARROYO SECO,1.0,32.0,47.60405429766559,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,LAS ARENAS,2.0,31.0,47.63548631426045,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,TRINIDACITO,3.0,12.0,48.653371033615876,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,FLORIDA,19.0,52.0,49.56542154153928,25-50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,KIOSCO,6.0,21.0,50.64487018592222,>50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,PUERTO RICO,89.0,2733.0,53.81104279483073,>50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,PUERTO CARDENAS,2.0,6.0,56.61636879892001,>50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,NUEVA VIDA,10.0,32.0,61.16089827661194,>50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,SANTA MARIA,8.0,50.0,62.41362988052386,>50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,HIROSHIMA,14.0,38.0,66.75883364860718,>50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,EL CARMEN,61.0,22.0,75.13127237270484,>50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,SANTA ANA DEL TATU,2.0,103.0,75.39381310532231,>50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,MANCHESTER,12.0,42.0,75.49541181669325,>50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,ALIANZA,11.0,40.0,79.62160814560258,>50 km
+Puerto_Rico,C4,Primera Sección - Puerto Rico,PUERTO AMERICA,7.0,74.0,81.64360773934773,>50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,TRINIDACITO,57.0,619.0,0.2155554461885885,<5 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,GALILEA,3.0,463.0,17.196091600380786,10-25 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,VISTA ALEGRE,8.0,361.0,17.863047616533112,10-25 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,VENECIA,15.0,67.0,21.69487571633018,10-25 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,SANTA ELENA,33.0,210.0,22.421993238816754,10-25 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,NANAGUA,8.0,43.0,25.485361726822074,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,SAN MARTIN,14.0,117.0,26.26930093944759,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,SAMARIA,29.0,139.0,26.671540381549963,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,PALESTINA,7.0,187.0,26.951920130981968,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,NUEVA ESPERANZA,1.0,100.0,28.70402241055328,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,SANTA MARIA,8.0,65.0,28.935660828006924,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,GENECHIQUIA,36.0,350.0,29.35354388378751,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,NARANJAL,7.0,426.0,30.110247464445983,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,REMANSO,7.0,77.0,30.87775164215424,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,EXALTACION,24.0,214.0,32.51126903253019,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,SINAI,28.0,173.0,32.62729541073567,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,LORETO,4.0,186.0,33.17314988226644,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,NAVIDAD,21.0,127.0,33.53840380329922,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,SAN SALVADOR,3.0,410.0,36.361625107320705,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,LOS REYES,16.0,102.0,37.88753357767901,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,BRIGIDA,9.0,130.0,38.66487352574414,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,BLANCA FLOR,13.0,1306.0,43.05201910298214,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,NUEVO HORIZONTE,6.0,71.0,44.58698466733699,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,COPACABANA,5.0,25.0,45.670380866875135,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,VIÑA DEL RIO,5.0,191.0,46.50255156395652,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,PUERTO COPACABANA,26.0,219.0,48.77697816232696,25-50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,SANTA ANITA,1.0,2.0,50.56247878561079,>50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,LITUANIA,7.0,54.0,50.911824311612314,>50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,SAN LORENZO,21.0,101.0,53.08370270185355,>50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,TRIGALITO,1.0,26.0,54.26888183021664,>50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,IBERIA,5.0,121.0,55.324662762455525,>50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,BITUMBO,8.0,112.0,73.24525844306335,>50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,SAN JORGE,16.0,90.0,73.53776841328008,>50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,CHARAL,33.0,159.0,73.83566401191777,>50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,FORTALEZA,64.0,320.0,82.67470870815721,>50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,ROSARIO,13.0,66.0,95.35898172895328,>50 km
+San_Lorenzo,C4,Segunda Sección - San Lorenzo,SAN ANTONIO,4.0,41.0,106.8983255934939,>50 km
+San_Pedro,C4,Segunda Sección - San Pedro,LA PAZ,9.0,154.0,2.0794015900509337,<5 km
+San_Pedro,C4,Segunda Sección - San Pedro,CAYUSAL,30.0,196.0,4.412038244560756,<5 km
+San_Pedro,C4,Segunda Sección - San Pedro,FLOR ESPERANZA,2.0,32.0,8.087376974912427,5-10 km
+San_Pedro,C4,Segunda Sección - San Pedro,VALPARAISO,48.0,238.0,8.259264470093283,5-10 km
+San_Pedro,C4,Segunda Sección - San Pedro,NUEVA ESPERANZA,1.0,14.0,9.812505212212724,5-10 km
+San_Pedro,C4,Segunda Sección - San Pedro,12 DE MARZO,31.0,174.0,9.857327887631003,5-10 km
+San_Pedro,C4,Segunda Sección - San Pedro,FORTALEZA,31.0,206.0,12.750590322295904,10-25 km
+San_Pedro,C4,Segunda Sección - San Pedro,TRES ISLAS,28.0,154.0,14.641874321967045,10-25 km
+San_Pedro,C4,Segunda Sección - San Pedro,TRES ESTRELLAS,5.0,155.0,14.741541415486909,10-25 km
+San_Pedro,C4,Segunda Sección - San Pedro,SANTA ROSA,33.0,144.0,15.810632179650632,10-25 km
+San_Pedro,C4,Segunda Sección - San Pedro,BARRACON,26.0,210.0,16.660306940151155,10-25 km
+San_Pedro,C4,Segunda Sección - San Pedro,SANTA ANA,32.0,201.0,18.565483256434234,10-25 km
+San_Pedro,C4,Segunda Sección - San Pedro,MANGALITO,38.0,230.0,18.985059867680597,10-25 km
+San_Pedro,C4,Segunda Sección - San Pedro,EL CARMEN,37.0,256.0,20.137336063396692,10-25 km
+San_Pedro,C4,Segunda Sección - San Pedro,LOMA VELARDE,35.0,284.0,23.923507712710556,10-25 km
+San_Pedro,C4,Segunda Sección - San Pedro,PALLAR,10.0,199.0,24.197585465071235,10-25 km
+San_Pedro,C4,Segunda Sección - San Pedro,MARAVILLA,26.0,77.0,29.110008087365117,25-50 km
+Santa_Rosa_Pando,C4,Primera Sección - Santa Rosa del Abuná,PALESTINA,14.0,106.0,30.349585906352797,25-50 km
+Santa_Rosa_Pando,C4,Primera Sección - Santa Rosa del Abuná,16 DE JULIO,1.0,81.0,53.522901916880166,>50 km
+Santa_Rosa_Pando,C4,Primera Sección - Santa Rosa del Abuná,PUERTO MORALES AYMA,59.0,347.0,58.13485149500862,>50 km
+Santa_Rosa_Pando,C4,Primera Sección - Santa Rosa del Abuná,VILLA DEL CARMEN,1.0,78.0,59.29904928280687,>50 km
+Santa_Rosa_Pando,C4,Primera Sección - Santa Rosa del Abuná,DOS LAGOS,18.0,67.0,60.050775881384716,>50 km
+Santa_Rosa_Pando,C4,Primera Sección - Santa Rosa del Abuná,ALTO BAHIA II,31.0,102.0,60.726790231287445,>50 km
+Santa_Rosa_Pando,C4,Primera Sección - Santa Rosa del Abuná,NACEBE,1.0,162.0,60.755184957961625,>50 km
+Santa_Rosa_Pando,C4,Primera Sección - Santa Rosa del Abuná,SIMON BOLIVAR,9.0,16.0,61.191259250930834,>50 km
+Santa_Rosa_Pando,C4,Primera Sección - Santa Rosa del Abuná,BERNARDINO RACUA,17.0,133.0,69.67598212310422,>50 km
+Santa_Rosa_Pando,C4,Primera Sección - Santa Rosa del Abuná,1RO DE MAYO,3.0,429.0,72.20773227706677,>50 km
+Santa_Rosa_Pando,C4,Primera Sección - Santa Rosa del Abuná,LAS ABEJAS,7.0,97.0,73.23766687471081,>50 km
+Santa_Rosa_Pando,C4,Primera Sección - Santa Rosa del Abuná,LAS ABEJAS II,14.0,82.0,73.91560857995462,>50 km
+Santa_Rosa_Pando,C4,Primera Sección - Santa Rosa del Abuná,MONTERREY,6.0,96.0,74.86162763964478,>50 km
+Santa_Rosa_Pando,C4,Primera Sección - Santa Rosa del Abuná,SANTA ROSA,29.0,646.0,78.19197894309276,>50 km
+Santa_Rosa_Pando,C4,Primera Sección - Santa Rosa del Abuná,COPACABANA,10.0,33.0,86.59840532206051,>50 km
+Santos_Mercado,C4,Tercera Sección - Santos Mercado,SANTA TEREZA,17.0,114.0,44.76413964148203,25-50 km
+Santos_Mercado,C4,Tercera Sección - Santos Mercado,CHIRIPA,4.0,24.0,45.70768430522622,25-50 km
+Santos_Mercado,C4,Tercera Sección - Santos Mercado,RESERVA,19.0,360.0,45.85880081302287,25-50 km
+Santos_Mercado,C4,Tercera Sección - Santos Mercado,ALMENDROS II,22.0,142.0,46.832086059362496,25-50 km
+Santos_Mercado,C4,Tercera Sección - Santos Mercado,SAN JOSE,2.0,177.0,47.127274123321726,25-50 km
+Santos_Mercado,C4,Tercera Sección - Santos Mercado,LOS ALMENDROS,4.0,81.0,49.61079734044789,25-50 km
+Santos_Mercado,C4,Tercera Sección - Santos Mercado,CAMPESINA PARAISO,10.0,23.0,51.554574424927,>50 km
+Santos_Mercado,C4,Tercera Sección - Santos Mercado,CHIRIPA,20.0,148.0,53.22380621773072,>50 km
+Santos_Mercado,C4,Tercera Sección - Santos Mercado,VILLA VICTORIA,53.0,333.0,54.40983011470267,>50 km
+Santos_Mercado,C4,Tercera Sección - Santos Mercado,PUERTO SUCRE,8.0,47.0,56.28453272772462,>50 km
+Santos_Mercado,C4,Tercera Sección - Santos Mercado,SAN MARTIN TACANA,18.0,192.0,58.732380875253895,>50 km
+Santos_Mercado,C4,Tercera Sección - Santos Mercado,MOLINO,5.0,30.0,66.9147759125122,>50 km
+Santos_Mercado,C4,Tercera Sección - Santos Mercado,SAN MARTIN,5.0,240.0,67.23904056699293,>50 km
+Santos_Mercado,C4,Tercera Sección - Santos Mercado,TAMARINDO,6.0,16.0,105.05251482178339,>50 km
+Santos_Mercado,C4,Tercera Sección - Santos Mercado,7 DE ENERO,7.0,27.0,108.09822829030645,>50 km
+Sena,C4,Tercera Sección - Sena,EL SENA,260.0,2587.0,0.08951257066025943,<5 km
+Sena,C4,Tercera Sección - Sena,MONTE SINAI,20.0,143.0,7.343989051337851,5-10 km
+Sena,C4,Tercera Sección - Sena,SACRIFICIO,19.0,26.0,12.388705370415291,10-25 km
+Sena,C4,Tercera Sección - Sena,EL CARMEN,7.0,288.0,15.779701143454401,10-25 km
+Sena,C4,Tercera Sección - Sena,VILLA COTOCA,29.0,170.0,17.451469528862265,10-25 km
+Sena,C4,Tercera Sección - Sena,BELEN,2.0,5.0,19.866163692307545,10-25 km
+Sena,C4,Tercera Sección - Sena,NUEVA FEDERACION,43.0,198.0,21.554414634314064,10-25 km
+Sena,C4,Tercera Sección - Sena,EL TURI,20.0,93.0,21.748091320004736,10-25 km
+Sena,C4,Tercera Sección - Sena,SANTA TRINIDAD,21.0,134.0,22.125403042442684,10-25 km
+Sena,C4,Tercera Sección - Sena,TURI RIO,37.0,153.0,22.885529421589144,10-25 km
+Sena,C4,Tercera Sección - Sena,SANTA FE,10.0,53.0,26.6421188738812,25-50 km
+Sena,C4,Tercera Sección - Sena,TURI DOS,10.0,42.0,28.789055673840426,25-50 km
+Sena,C4,Tercera Sección - Sena,CANADA,14.0,66.0,31.023379039803462,25-50 km
+Sena,C4,Tercera Sección - Sena,BELLA BRISA,2.0,10.0,31.28827790945598,25-50 km
+Sena,C4,Tercera Sección - Sena,REMANZO,20.0,98.0,31.525320689522555,25-50 km
+Sena,C4,Tercera Sección - Sena,SANTAROSITA,5.0,16.0,31.923133523654034,25-50 km
+Sena,C4,Tercera Sección - Sena,VILLA FRONTERA,21.0,115.0,32.19330339292658,25-50 km
+Sena,C4,Tercera Sección - Sena,SANTA TERESA,2.0,9.0,32.540692615869915,25-50 km
+Sena,C4,Tercera Sección - Sena,BERCEBA,14.0,52.0,35.67360444937828,25-50 km
+Sena,C4,Tercera Sección - Sena,CACHUELITA,29.0,119.0,37.082311580021525,25-50 km
+Sena,C4,Tercera Sección - Sena,RINCONCITO PANDINO,22.0,103.0,39.50807076940548,25-50 km
+Sena,C4,Tercera Sección - Sena,SAN JOSE,29.0,14.0,39.705675160754495,25-50 km
+Sena,C4,Tercera Sección - Sena,RESERVA,53.0,314.0,40.13763949241195,25-50 km
+Sena,C4,Tercera Sección - Sena,PRIMERO DE DICIEMBRE,13.0,60.0,41.69337098991152,25-50 km
+Sena,C4,Tercera Sección - Sena,SANTA ELENA,17.0,155.0,42.041434992607435,25-50 km
+Sena,C4,Tercera Sección - Sena,LAS MERCEDES,29.0,157.0,42.86295542034728,25-50 km
+Sena,C4,Tercera Sección - Sena,BALLIVIAN,5.0,69.0,47.080501078777,25-50 km
+Sena,C4,Tercera Sección - Sena,SAN ANTONIO,29.0,176.0,47.48925520898717,25-50 km
+Sena,C4,Tercera Sección - Sena,NUEVA EMPRESA,23.0,148.0,47.53069556233987,25-50 km
+Sena,C4,Tercera Sección - Sena,BRIGIDA II,15.0,76.0,47.66153156320988,25-50 km
+Sena,C4,Tercera Sección - Sena,PALMA REAL,42.0,227.0,55.25492870360996,>50 km
+Sena,C4,Tercera Sección - Sena,RECREO,19.0,73.0,55.487948072664196,>50 km
+Sena,C4,Tercera Sección - Sena,SANTA ROSA DE LIMA,9.0,79.0,55.721133974337576,>50 km
+Sena,C4,Tercera Sección - Sena,BERLIN,8.0,45.0,56.09346995907308,>50 km
+Sena,C4,Tercera Sección - Sena,LA ESPERANZA,13.0,15.0,56.13915124953919,>50 km
+Sena,C4,Tercera Sección - Sena,SAN ROQUE,32.0,144.0,58.38947540677569,>50 km
+Sena,C4,Tercera Sección - Sena,NUEVA ESPERANZA II,6.0,39.0,58.945727145283726,>50 km
+Sena,C4,Tercera Sección - Sena,TATUCITO,15.0,82.0,61.1311264783897,>50 km
+Sena,C4,Tercera Sección - Sena,SAN CARLOS,4.0,11.0,61.14855926475729,>50 km
+Sena,C4,Tercera Sección - Sena,EL COLORADO,18.0,35.0,61.41672240598031,>50 km
+Sena,C4,Tercera Sección - Sena,SAN MIGUEL,4.0,111.0,62.93008283610016,>50 km
+Sena,C4,Tercera Sección - Sena,SAN MIGUEL,25.0,12.0,62.983828380390584,>50 km
+Sena,C4,Tercera Sección - Sena,SANTA ROSA DEL MANUPARE,25.0,134.0,63.793658533670886,>50 km
+Sena,C4,Tercera Sección - Sena,GIRADO,16.0,76.0,66.94547031993842,>50 km
+Sena,C4,Tercera Sección - Sena,SIMPENSAR,5.0,23.0,69.08701261185412,>50 km
+Sena,C4,Tercera Sección - Sena,TRIUNFO,9.0,41.0,70.03693511691489,>50 km
+Sena,C4,Tercera Sección - Sena,SOLEDAD,21.0,93.0,70.5115830410618,>50 km
+Sena,C4,Tercera Sección - Sena,PEKIN,35.0,185.0,72.43867049823685,>50 km
+Sena,C4,Tercera Sección - Sena,NUEVA ESPERANZA,50.0,100.0,75.9860513966842,>50 km
+Sena,C4,Tercera Sección - Sena,SAN SALVADOR,19.0,72.0,76.40498640689222,>50 km
+Sena,C4,Tercera Sección - Sena,ALTO BUENA VISTA,25.0,102.0,76.94675598366359,>50 km
+Sena,C4,Tercera Sección - Sena,FLORIDA,8.0,87.0,77.2069627657371,>50 km
+Sena,C4,Tercera Sección - Sena,SAN ANTONIO,2.0,5.0,79.4217798245898,>50 km
+Sena,C4,Tercera Sección - Sena,RANCHITO,14.0,59.0,79.61101044588945,>50 km
+Sena,C4,Tercera Sección - Sena,PUERTO PALOMA,3.0,16.0,79.62522560778373,>50 km
+Sena,C4,Tercera Sección - Sena,COPACABANA,10.0,53.0,80.1676965591162,>50 km
+Sena,C4,Tercera Sección - Sena,COLMENA,46.0,307.0,82.84617403383797,>50 km
+Sena,C4,Tercera Sección - Sena,SANTA MARIA DEL WIPA,24.0,103.0,83.10387781571966,>50 km
+Sena,C4,Tercera Sección - Sena,4 DE JUNIO,9.0,54.0,86.63642661220085,>50 km
+Sena,C4,Tercera Sección - Sena,PALMAR,60.0,206.0,86.67977239558412,>50 km
+Sena,C4,Tercera Sección - Sena,ARROYO COLORADO,11.0,32.0,89.97060346463537,>50 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),SAN IGNACIO,13.0,152.0,3.5064375143383977,<5 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),CALLAO GUADALUPE,6.0,34.0,10.408405441464927,10-25 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),PERSEVERANCIA,17.0,126.0,14.310824629779942,10-25 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),PALMIRA,3.0,97.0,17.72148298561036,10-25 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),NUEVO TRIUNFO,15.0,22.0,20.049733464011002,10-25 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),TRIUNFO,9.0,107.0,20.13463215259373,10-25 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),SANTA FE,11.0,141.0,22.930717730292013,10-25 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),BELEN,17.0,100.0,23.26009112809353,10-25 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),SAN ANTONIO,2.0,36.0,24.36024042305825,10-25 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),LOMA ALTA,3.0,646.0,24.65065416486958,10-25 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),ISLA LAS PETAS,3.0,22.0,25.330845418514528,25-50 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),LAS MALVINAS,21.0,106.0,25.82712043721552,25-50 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),DEMOCRACIA,15.0,141.0,26.433607479134107,25-50 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),SANTA ISABEL,20.0,98.0,28.093634455633733,25-50 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),AGUARENDA,13.0,83.0,30.471696349626484,25-50 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),SANTA CRUCITO,27.0,351.0,33.28083800395854,25-50 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),BELLA BRISA,25.0,155.0,34.64443933560365,25-50 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),SANTA TERESITA,13.0,116.0,43.33704655243839,25-50 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),RESERVA II,16.0,143.0,45.41477906527327,25-50 km
+Villa_Nueva,C4,Segunda Sección - Villa Nueva (Loma Alta),ENAREVENA,7.0,84.0,46.16485657965958,25-50 km
+Cobija,C5,Sección Capital - Cobija,VILLA BUSCH,14.0,734.0,1.3251635531211703,<5 km
+Cobija,C5,Sección Capital - Cobija,COBIJA,858.0,0.0,2.722059861978071,<5 km
+Cobija,C5,Sección Capital - Cobija,AVAROA,18.0,295.0,3.148652811640959,<5 km
+Cobija,C5,Sección Capital - Cobija,SUJAL,10.0,124.0,4.2214300847873565,<5 km
+Cobija,C5,Sección Capital - Cobija,ALTO BAHIA,14.0,111.0,4.260780693287344,<5 km
+Cobija,C5,Sección Capital - Cobija,MEJILLONES,2.0,128.0,5.137720289005684,5-10 km
+Cobija,C5,Sección Capital - Cobija,VILLA FATIMA,20.0,89.0,6.127943583583647,5-10 km
+Cobija,C5,Sección Capital - Cobija,PONTON,2.0,40.0,6.761277421226104,5-10 km
+Cobija,C5,Sección Capital - Cobija,VILLA ROSARIO,4.0,120.0,7.836238258892233,5-10 km
+Cobija,C5,Sección Capital - Cobija,NUEVO TRIUNFO,1.0,134.0,9.074301413897203,5-10 km
+Cobija,C5,Sección Capital - Cobija,NUEVA ESPERANZA,17.0,139.0,12.843504568961063,10-25 km
+Cobija,C5,Sección Capital - Cobija,MARAPANI,10.0,44.0,14.35170108120359,10-25 km
+Cobija,C5,Sección Capital - Cobija,BELMONTE,1.0,4.0,14.986831184856792,10-25 km
+Cobija,C5,Sección Capital - Cobija,17 DE MAYO,33.0,134.0,22.56613590419303,10-25 km
